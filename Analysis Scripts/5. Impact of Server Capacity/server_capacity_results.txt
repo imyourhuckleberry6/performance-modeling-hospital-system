@@ -1,0 +1,23 @@
+-Impact of Server Capacity Analysis Results--
+
+A. Mean Total Wait Time vs. Nurse-to-Patient Ratio:
+ Nurse-to-Patient Ratio  Mean Wait Time (min)
+                      1             16.861789
+                      2             20.426230
+                      3             65.778182
+                      4            104.134409
+                      5            170.190840
+
+B. Mean Total Wait Time vs. Specialist Availability (0-10 Scale):
+ Specialist Availability  Mean Wait Time (min)
+                       1             77.094017
+                       2             94.781250
+                       3             98.189474
+                       4             74.490909
+                       5             80.781250
+                       6             77.040000
+                       7             94.500000
+                       8             78.072917
+                       9             68.522936
+                      10             80.483051
+

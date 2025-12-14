@@ -1,0 +1,12 @@
+-Little's Law Verification Results (L = \lambda W)-
+
+1. Average System Time (W):
+   W = 81.81 minutes (Average Total Wait Time)
+
+2. Average Arrival Rate (lambda):
+   Mean Inter-Arrival Time = 512.76 minutes
+   lambda = 1.95022e-03 patients/minute
+   lambda (hourly) = 0.1170 patients/hour
+
+3. Theoretical Average Patients in System (L):
+   L_theoretical = lambda * W = 0.16 patients

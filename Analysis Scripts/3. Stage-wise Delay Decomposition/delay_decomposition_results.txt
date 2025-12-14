@@ -1,0 +1,8 @@
+--Stage-wise Delay Decomposition Results--
+
+Mean and Standard Deviation of Delay at each Stage:
+                      Mean Delay (min)  Standard Deviation (min)
+Registration                 11.840665                 10.239071
+Triage                       24.587488                 24.235430
+Medical Professional         45.378299                 34.562468
+

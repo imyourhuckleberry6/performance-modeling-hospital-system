@@ -1,0 +1,10 @@
+--- Priority Queuing Validation Results ---
+
+Mean and Standard Deviation of Total Wait Time by Urgency Level:
+               Mean Total Wait Time (min)  Standard Deviation (min)
+Urgency Level                                                      
+Critical                        18.636735                  7.681858
+High                            43.742424                 15.902326
+Medium                          95.459559                 35.409442
+Low                            171.938017                 54.284179
+

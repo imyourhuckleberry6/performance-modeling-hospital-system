@@ -1,0 +1,19 @@
+--- Load Variation Analysis Results ---
+
+A. Patients by Day of Week:
+Day of Week
+Monday       165
+Tuesday      157
+Wednesday    139
+Thursday     127
+Friday       129
+Saturday     170
+Sunday       136
+
+B. Patients by Time of Day:
+Time of Day
+Early Morning     99
+Late Morning     150
+Afternoon        313
+Evening          367
+Night             94

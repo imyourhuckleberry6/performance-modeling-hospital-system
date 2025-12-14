@@ -1,0 +1,5 @@
+--- Arrival Process Analysis Results ---
+Total Observations: 1022
+Mean Inter-Arrival Time: 512.76 minutes
+Arrival Rate (lambda): 0.00195 patients/minute
+Arrival Rate (hourly): 0.12 patients/hour
