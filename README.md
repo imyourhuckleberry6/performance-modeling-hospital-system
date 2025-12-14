@@ -5,8 +5,6 @@ The selected system is a Hospital Emergency Treatment center for patients that r
 
 2.	Dataset Description
 This system is supported by a dataset which contained the information of multiple hospital emergency treatment centers around urban and rural country areas. For the sake of this analysis, the dataset is cleaned and organized by the proceedings of only a single emergency treatment unit and its activities. This allows the user to closely analyze the goings in this selected center and analyze its bottlenecks and optimization of activities. 1023 individual unique entries are given for this analysis of the center.
-Dataset used can be found at:
-https://github.com/imyourhuckleberry6/performance-modeling-hospital-system
 
 2.1 ER Wait Time Dataset (ER Wait Time Dataset.csv)
 Include entries on patient data, their level of urgency as well has going on’s in the emergency unit for each day.
