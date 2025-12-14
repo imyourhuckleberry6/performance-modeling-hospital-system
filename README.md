@@ -22,6 +22,7 @@ Satisfaction: how satisfied the patient were with their treatment in the unit
 This is the original dataset gotten for the analysis before it was cleaned and organized. It is included only for completion purposes and does not serve any standing value for the tests.
 
 6.	Methodology
+   
 The analysis is done in a phased, data driven approach by using Python as the standard language for data analysis and its libraries (Pandas, Numpy, SciPy, mathplotlib) to do five analysis tests with goals in mind.
 
 6.1	Arrival Process analysis
