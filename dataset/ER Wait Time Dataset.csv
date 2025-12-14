@@ -1,0 +1,1024 @@
+Patient ID,Visit Date,Day of Week,Season,Time of Day,Urgency Level,Nurse-to-Patient Ratio,Specialist Availability,Facility Size (Beds),Time to Registration (min),Time to Triage (min),Time to Medical Professional (min),Total Wait Time (min),Patient Outcome,Patient Satisfaction
+PAT-00004,2/27/2024 0:31,Tuesday,Winter,Evening,High,4,5,94,8,16,64,88,Discharged,2
+PAT-00008,12/12/2024 20:23,Thursday,Winter,Afternoon,Medium,3,2,84,8,25,48,81,Admitted,2
+PAT-00011,6/1/2024 2:16,Saturday,Summer,Afternoon,Medium,4,9,187,15,21,70,106,Admitted,2
+PAT-00014,7/8/2024 7:57,Monday,Summer,Afternoon,Critical,2,6,66,1,9,12,22,Discharged,5
+PAT-00015,5/22/2024 3:01,Wednesday,Spring,Late Morning,Medium,4,10,147,13,30,40,83,Discharged,2
+PAT-00018,5/31/2024 21:29,Friday,Spring,Late Morning,Critical,1,8,165,2,3,11,16,Discharged,5
+PAT-00022,12/22/2024 19:57,Sunday,Winter,Late Morning,Medium,3,9,193,11,26,45,82,Discharged,3
+PAT-00024,10/8/2024 5:40,Tuesday,Fall,Late Morning,High,3,3,116,2,9,21,32,Discharged,4
+PAT-00029,6/13/2024 3:45,Thursday,Summer,Evening,Medium,3,6,200,9,35,59,103,Discharged,1
+PAT-00032,5/31/2024 11:52,Friday,Spring,Late Morning,Critical,2,1,152,2,3,8,13,Admitted,4
+PAT-00039,2/7/2024 21:55,Wednesday,Winter,Late Morning,Low,5,7,61,18,78,74,170,Discharged,1
+PAT-00041,6/2/2024 21:53,Sunday,Summer,Evening,Low,5,7,98,31,52,111,194,Discharged,1
+PAT-00043,6/4/2024 15:09,Tuesday,Summer,Late Morning,High,3,8,139,3,6,18,27,Admitted,4
+PAT-00058,3/12/2024 10:54,Tuesday,Spring,Evening,Critical,2,10,99,4,7,10,21,Admitted,5
+PAT-00072,3/27/2024 0:49,Wednesday,Spring,Late Morning,Medium,4,7,146,5,17,37,59,Admitted,3
+PAT-00076,9/12/2024 13:29,Thursday,Fall,Evening,Medium,3,4,105,6,16,65,87,Discharged,2
+PAT-00077,12/17/2024 11:02,Tuesday,Winter,Afternoon,High,4,3,94,9,16,38,63,Admitted,3
+PAT-00078,12/4/2024 8:23,Wednesday,Winter,Afternoon,Low,5,5,146,38,47,99,184,Discharged,1
+PAT-00113,9/29/2024 0:26,Sunday,Fall,Evening,High,3,5,149,4,9,16,29,Admitted,4
+PAT-00122,9/8/2024 3:28,Sunday,Fall,Afternoon,High,3,3,73,2,9,9,20,Admitted,4
+PAT-00123,3/10/2024 6:38,Sunday,Spring,Early Morning,High,3,10,151,1,4,12,17,Admitted,5
+PAT-00124,12/1/2024 1:01,Sunday,Winter,Late Morning,Critical,2,9,164,3,3,13,19,Admitted,4
+PAT-00129,8/24/2024 13:21,Saturday,Summer,Afternoon,Critical,2,7,128,3,5,7,15,Discharged,5
+PAT-00139,10/21/2024 16:08,Monday,Fall,Evening,Medium,4,3,136,20,30,98,148,Discharged,1
+PAT-00141,5/5/2024 9:48,Sunday,Spring,Evening,High,4,6,158,4,8,16,28,Discharged,4
+PAT-00143,2/13/2024 9:51,Tuesday,Winter,Afternoon,Low,5,6,171,41,79,135,255,Discharged,1
+PAT-00146,8/7/2024 2:33,Wednesday,Summer,Evening,High,4,8,67,10,16,46,72,Discharged,3
+PAT-00149,7/26/2024 18:02,Friday,Summer,Evening,Low,5,3,176,22,107,111,240,Discharged,1
+PAT-00151,2/2/2024 3:43,Friday,Winter,Night,Low,4,9,174,38,53,139,230,Discharged,1
+PAT-00153,12/20/2024 13:32,Friday,Winter,Evening,Medium,4,2,131,26,53,79,158,Discharged,1
+PAT-00168,11/21/2024 14:39,Thursday,Fall,Night,Critical,2,10,129,2,1,5,8,Admitted,4
+PAT-00179,2/3/2024 17:52,Saturday,Winter,Night,Low,5,1,85,19,50,104,173,Discharged,1
+PAT-00180,11/27/2024 21:41,Wednesday,Fall,Afternoon,Critical,1,6,155,0,2,6,8,Admitted,5
+PAT-00181,9/16/2024 22:37,Monday,Fall,Evening,Critical,1,2,115,2,3,13,18,Admitted,4
+PAT-00182,3/1/2024 4:38,Friday,Spring,Night,Critical,1,3,119,2,1,13,16,Discharged,4
+PAT-00183,1/20/2024 16:13,Saturday,Winter,Night,Critical,1,9,190,3,5,12,20,Discharged,4
+PAT-00184,12/4/2024 9:53,Wednesday,Winter,Late Morning,Medium,3,6,152,21,14,42,77,Admitted,2
+PAT-00185,8/2/2024 18:07,Friday,Summer,Afternoon,Low,5,10,57,33,59,97,189,Discharged,1
+PAT-00192,8/17/2024 11:54,Saturday,Summer,Afternoon,High,4,5,63,8,11,25,44,Discharged,4
+PAT-00202,7/12/2024 3:50,Friday,Summer,Afternoon,Low,4,4,120,22,36,86,144,Discharged,1
+PAT-00212,2/21/2024 14:45,Wednesday,Winter,Early Morning,Critical,2,4,166,2,2,10,14,Discharged,5
+PAT-00215,12/10/2024 20:39,Tuesday,Winter,Afternoon,Low,5,10,144,30,69,132,231,Discharged,1
+PAT-00220,4/2/2024 14:26,Tuesday,Spring,Evening,High,4,1,198,8,14,37,59,Discharged,3
+PAT-00224,8/17/2024 17:10,Saturday,Summer,Evening,Low,4,7,163,24,83,77,184,Left Without Being Seen,1
+PAT-00225,3/28/2024 14:32,Thursday,Spring,Afternoon,Medium,3,2,111,19,22,33,74,Admitted,3
+PAT-00232,1/13/2024 19:32,Saturday,Winter,Evening,Medium,3,9,135,17,23,56,96,Discharged,2
+PAT-00238,12/18/2024 19:21,Wednesday,Winter,Late Morning,Medium,4,8,97,21,23,39,83,Discharged,2
+PAT-00242,6/27/2024 12:36,Thursday,Summer,Evening,Medium,3,5,51,14,26,87,127,Discharged,1
+PAT-00245,5/15/2024 8:49,Wednesday,Spring,Early Morning,Medium,3,10,193,8,18,37,63,Admitted,3
+PAT-00247,4/7/2024 15:17,Sunday,Spring,Night,Critical,2,5,158,1,2,4,7,Discharged,4
+PAT-00254,2/8/2024 8:01,Thursday,Winter,Night,Critical,2,10,174,4,5,8,17,Admitted,4
+PAT-00256,12/1/2024 7:59,Sunday,Winter,Afternoon,Critical,1,7,174,1,4,9,14,Discharged,5
+PAT-00263,1/27/2024 4:33,Saturday,Winter,Evening,Critical,1,8,76,4,2,9,15,Discharged,4
+PAT-00267,12/6/2024 18:35,Friday,Winter,Late Morning,High,4,4,161,9,15,23,47,Discharged,4
+PAT-00277,4/19/2024 18:44,Friday,Spring,Late Morning,Low,4,9,50,21,26,77,124,Discharged,1
+PAT-00278,6/23/2024 20:51,Sunday,Summer,Early Morning,Low,5,1,190,10,36,52,98,Discharged,1
+PAT-00281,7/8/2024 5:22,Monday,Summer,Afternoon,Medium,3,9,166,22,21,35,78,Discharged,2
+PAT-00287,3/16/2024 1:55,Saturday,Spring,Early Morning,Low,4,3,51,12,28,44,84,Discharged,2
+PAT-00292,4/2/2024 0:56,Tuesday,Spring,Evening,Medium,3,7,192,9,23,58,90,Discharged,2
+PAT-00306,4/16/2024 5:39,Tuesday,Spring,Late Morning,Low,5,5,87,22,60,63,145,Left Without Being Seen,1
+PAT-00316,4/30/2024 3:52,Tuesday,Spring,Evening,High,4,4,111,8,17,24,49,Discharged,3
+PAT-00318,2/24/2024 4:26,Saturday,Winter,Evening,Low,5,3,129,26,104,150,280,Discharged,1
+PAT-00319,12/3/2024 1:08,Tuesday,Winter,Night,Medium,3,9,187,8,24,34,66,Admitted,3
+PAT-00325,6/1/2024 15:17,Saturday,Summer,Afternoon,Critical,2,9,102,3,2,9,14,Discharged,4
+PAT-00327,11/29/2024 6:39,Friday,Fall,Evening,Medium,3,10,164,18,21,34,73,Admitted,2
+PAT-00332,12/12/2024 17:57,Thursday,Winter,Afternoon,Medium,3,2,118,13,32,66,111,Admitted,1
+PAT-00336,1/1/2024 21:49,Monday,Winter,Evening,Critical,2,10,194,7,7,33,47,Discharged,4
+PAT-00337,2/18/2024 5:55,Sunday,Winter,Afternoon,Critical,1,6,160,3,5,15,23,Discharged,4
+PAT-00339,3/2/2024 21:02,Saturday,Spring,Evening,Low,5,1,109,26,45,74,145,Discharged,1
+PAT-00340,6/26/2024 18:11,Wednesday,Summer,Evening,Critical,2,5,169,1,7,23,31,Discharged,4
+PAT-00341,1/6/2024 8:56,Saturday,Winter,Night,High,4,4,60,4,11,17,32,Discharged,4
+PAT-00351,12/28/2024 16:04,Saturday,Winter,Evening,Low,5,7,159,39,80,104,223,Discharged,1
+PAT-00358,4/4/2024 20:00,Thursday,Spring,Late Morning,Medium,3,10,127,8,18,48,74,Discharged,3
+PAT-00364,11/8/2024 8:23,Friday,Fall,Afternoon,High,4,4,84,7,8,36,51,Admitted,3
+PAT-00365,7/18/2024 9:02,Thursday,Summer,Afternoon,Low,4,5,145,32,64,75,171,Discharged,1
+PAT-00368,2/26/2024 12:55,Monday,Winter,Late Morning,Medium,3,6,130,15,21,88,124,Discharged,1
+PAT-00373,4/23/2024 14:13,Tuesday,Spring,Afternoon,Medium,3,7,86,7,15,62,84,Admitted,2
+PAT-00374,6/14/2024 14:50,Friday,Summer,Late Morning,High,3,7,72,6,8,17,31,Discharged,4
+PAT-00377,9/17/2024 18:38,Tuesday,Fall,Evening,Low,5,10,155,18,47,87,152,Discharged,1
+PAT-00380,4/6/2024 15:48,Saturday,Spring,Afternoon,Medium,4,4,145,18,15,24,57,Discharged,3
+PAT-00396,1/27/2024 22:26,Saturday,Winter,Late Morning,Critical,1,3,158,1,2,12,15,Discharged,4
+PAT-00399,11/20/2024 13:11,Wednesday,Fall,Late Morning,Medium,3,3,92,11,20,45,76,Admitted,3
+PAT-00404,3/27/2024 6:41,Wednesday,Spring,Evening,Low,5,8,198,16,84,79,179,Discharged,1
+PAT-00407,11/26/2024 9:57,Tuesday,Fall,Evening,High,4,3,151,7,11,34,52,Admitted,3
+PAT-00421,11/23/2024 6:41,Saturday,Fall,Evening,High,3,4,104,3,7,14,24,Admitted,4
+PAT-00428,3/29/2024 4:23,Friday,Spring,Night,Low,4,10,141,19,44,91,154,Discharged,1
+PAT-00433,8/4/2024 6:08,Sunday,Summer,Afternoon,Low,5,8,162,21,72,62,155,Discharged,1
+PAT-00436,6/3/2024 6:58,Monday,Summer,Afternoon,High,4,4,52,6,22,33,61,Discharged,3
+PAT-00441,8/8/2024 18:51,Thursday,Summer,Evening,Medium,3,1,138,21,41,47,109,Discharged,2
+PAT-00447,11/7/2024 16:47,Thursday,Fall,Early Morning,Medium,4,8,81,7,10,21,38,Discharged,4
+PAT-00456,8/3/2024 12:00,Saturday,Summer,Evening,Medium,4,1,69,23,43,68,134,Discharged,1
+PAT-00457,2/15/2024 11:43,Thursday,Winter,Evening,Low,5,10,103,44,69,106,219,Left Without Being Seen,1
+PAT-00460,4/27/2024 16:22,Saturday,Spring,Afternoon,Medium,4,9,160,11,28,68,107,Admitted,2
+PAT-00475,5/4/2024 23:43,Saturday,Spring,Late Morning,Medium,3,4,134,7,15,27,49,Discharged,4
+PAT-00476,6/15/2024 0:25,Saturday,Summer,Late Morning,High,4,5,86,5,11,27,43,Discharged,3
+PAT-00481,5/12/2024 19:53,Sunday,Spring,Evening,Low,5,6,93,28,70,93,191,Discharged,1
+PAT-00489,7/1/2024 13:39,Monday,Summer,Evening,Medium,3,3,184,21,40,103,164,Discharged,1
+PAT-00491,3/7/2024 4:44,Thursday,Spring,Afternoon,Low,5,2,154,21,34,75,130,Discharged,1
+PAT-00497,4/5/2024 2:01,Friday,Spring,Late Morning,High,3,1,184,5,7,17,29,Admitted,4
+PAT-00505,4/5/2024 9:52,Friday,Spring,Evening,Medium,3,1,135,15,15,43,73,Admitted,2
+PAT-00510,6/2/2024 12:19,Sunday,Summer,Afternoon,Medium,3,7,98,8,17,53,78,Discharged,2
+PAT-00517,5/24/2024 3:47,Friday,Spring,Afternoon,Critical,2,8,135,3,6,7,16,Admitted,5
+PAT-00518,8/21/2024 11:22,Wednesday,Summer,Afternoon,Critical,2,3,132,4,2,17,23,Discharged,5
+PAT-00526,11/10/2024 6:25,Sunday,Fall,Late Morning,Low,5,2,160,10,38,52,100,Discharged,2
+PAT-00529,7/11/2024 2:28,Thursday,Summer,Early Morning,Low,5,10,189,11,35,58,104,Admitted,1
+PAT-00530,9/7/2024 12:47,Saturday,Fall,Evening,Medium,4,9,139,9,19,43,71,Discharged,3
+PAT-00538,1/13/2024 7:40,Saturday,Winter,Afternoon,Medium,3,10,129,17,25,41,83,Admitted,2
+PAT-00539,8/27/2024 0:24,Tuesday,Summer,Early Morning,High,4,6,81,5,11,18,34,Discharged,4
+PAT-00540,6/3/2024 17:40,Monday,Summer,Night,Medium,3,10,198,19,28,69,116,Discharged,1
+PAT-00555,12/27/2024 9:14,Friday,Winter,Evening,Low,5,7,102,28,117,120,265,Discharged,1
+PAT-00566,6/15/2024 11:15,Saturday,Summer,Night,Medium,3,1,135,13,12,42,67,Admitted,3
+PAT-00567,4/29/2024 5:18,Monday,Spring,Evening,Low,4,8,198,44,95,114,253,Discharged,1
+PAT-00569,6/21/2024 3:50,Friday,Summer,Evening,Critical,1,5,145,4,4,22,30,Discharged,4
+PAT-00580,3/7/2024 3:11,Thursday,Spring,Afternoon,Critical,1,9,146,1,4,9,14,Discharged,4
+PAT-00584,2/28/2024 13:33,Wednesday,Winter,Afternoon,Medium,4,10,144,11,48,90,149,Left Without Being Seen,1
+PAT-00587,4/6/2024 12:25,Saturday,Spring,Afternoon,Critical,2,8,147,3,3,17,23,Discharged,4
+PAT-00599,3/7/2024 20:20,Thursday,Spring,Evening,Medium,3,3,174,8,32,60,100,Discharged,2
+PAT-00607,7/27/2024 9:46,Saturday,Summer,Evening,Medium,3,10,92,17,20,79,116,Admitted,1
+PAT-00617,11/17/2024 10:45,Sunday,Fall,Afternoon,Medium,3,9,67,11,14,37,62,Discharged,3
+PAT-00632,6/10/2024 11:46,Monday,Summer,Afternoon,Critical,1,8,114,4,7,17,28,Discharged,4
+PAT-00635,11/18/2024 8:27,Monday,Fall,Late Morning,Critical,2,9,166,2,3,8,13,Admitted,4
+PAT-00644,9/6/2024 14:16,Friday,Fall,Late Morning,Medium,3,9,88,6,26,28,60,Discharged,3
+PAT-00652,8/18/2024 6:32,Sunday,Summer,Late Morning,Medium,3,2,187,8,13,22,43,Admitted,4
+PAT-00662,6/29/2024 15:49,Saturday,Summer,Afternoon,Critical,1,4,106,3,3,8,14,Discharged,5
+PAT-00673,4/3/2024 6:26,Wednesday,Spring,Late Morning,High,4,8,166,5,5,11,21,Admitted,4
+PAT-00676,2/17/2024 13:43,Saturday,Winter,Late Morning,Critical,2,4,191,2,6,6,14,Discharged,5
+PAT-00687,2/10/2024 4:47,Saturday,Winter,Afternoon,High,3,4,60,7,10,28,45,Admitted,3
+PAT-00688,8/31/2024 19:26,Saturday,Summer,Afternoon,Low,5,10,161,16,59,75,150,Discharged,1
+PAT-00691,11/26/2024 0:57,Tuesday,Fall,Evening,High,3,9,91,4,7,25,36,Admitted,4
+PAT-00693,7/31/2024 15:35,Wednesday,Summer,Evening,High,3,6,157,8,10,22,40,Discharged,3
+PAT-00696,4/29/2024 20:08,Monday,Spring,Afternoon,High,3,2,76,6,10,18,34,Admitted,4
+PAT-00698,4/9/2024 7:06,Tuesday,Spring,Afternoon,High,4,1,167,5,8,33,46,Discharged,3
+PAT-00710,10/18/2024 4:50,Friday,Fall,Evening,Medium,4,8,178,8,19,80,107,Admitted,1
+PAT-00715,7/13/2024 16:49,Saturday,Summer,Afternoon,Medium,4,9,180,9,33,54,96,Discharged,1
+PAT-00719,1/19/2024 6:52,Friday,Winter,Evening,Low,5,5,102,38,135,124,297,Discharged,1
+PAT-00728,12/7/2024 15:49,Saturday,Winter,Early Morning,High,3,5,88,5,5,16,26,Admitted,5
+PAT-00731,5/19/2024 4:15,Sunday,Spring,Late Morning,Medium,4,8,69,6,14,27,47,Admitted,3
+PAT-00753,6/22/2024 20:58,Saturday,Summer,Night,Critical,1,6,61,1,4,10,15,Discharged,5
+PAT-00770,2/27/2024 11:41,Tuesday,Winter,Evening,Medium,4,2,199,33,64,59,156,Discharged,1
+PAT-00773,1/28/2024 14:36,Sunday,Winter,Evening,High,4,7,63,8,14,36,58,Discharged,3
+PAT-00780,7/19/2024 14:24,Friday,Summer,Afternoon,Low,4,9,140,23,89,95,207,Discharged,1
+PAT-00783,1/21/2024 6:54,Sunday,Winter,Night,High,3,5,200,6,6,18,30,Admitted,4
+PAT-00785,7/23/2024 19:07,Tuesday,Summer,Afternoon,Critical,2,10,149,2,4,19,25,Admitted,4
+PAT-00787,7/22/2024 1:41,Monday,Summer,Afternoon,High,4,4,159,9,24,31,64,Discharged,2
+PAT-00789,1/17/2024 15:13,Wednesday,Winter,Evening,Critical,1,2,57,1,7,23,31,Admitted,4
+PAT-00806,11/16/2024 23:08,Saturday,Fall,Evening,Medium,4,1,181,17,22,58,97,Discharged,2
+PAT-00810,6/14/2024 21:47,Friday,Summer,Early Morning,Low,5,3,153,14,46,64,124,Discharged,1
+PAT-00811,1/9/2024 0:50,Tuesday,Winter,Evening,Low,4,3,69,43,63,106,212,Left Without Being Seen,1
+PAT-00812,11/24/2024 2:36,Sunday,Fall,Late Morning,Medium,4,9,120,13,15,34,62,Admitted,3
+PAT-00814,6/11/2024 4:57,Tuesday,Summer,Evening,Low,4,9,179,25,57,115,197,Discharged,1
+PAT-00819,1/16/2024 16:51,Tuesday,Winter,Afternoon,Medium,3,8,124,23,17,50,90,Admitted,2
+PAT-00820,1/8/2024 5:05,Monday,Winter,Evening,Critical,2,4,170,5,13,23,41,Admitted,4
+PAT-00823,11/17/2024 16:09,Sunday,Fall,Evening,Low,5,2,137,24,39,59,122,Discharged,1
+PAT-00828,2/25/2024 9:26,Sunday,Winter,Late Morning,Low,4,6,76,22,63,80,165,Discharged,1
+PAT-00830,2/16/2024 9:29,Friday,Winter,Evening,Medium,3,5,197,17,43,78,138,Left Without Being Seen,1
+PAT-00832,9/17/2024 20:50,Tuesday,Fall,Night,Critical,1,2,149,2,3,10,15,Admitted,5
+PAT-00833,2/12/2024 5:15,Monday,Winter,Evening,Critical,1,1,143,4,4,24,32,Admitted,4
+PAT-00840,9/30/2024 16:16,Monday,Fall,Early Morning,Medium,4,6,74,12,18,51,81,Admitted,2
+PAT-00844,11/15/2024 20:26,Friday,Fall,Late Morning,High,3,6,77,2,6,9,17,Admitted,4
+PAT-00846,3/29/2024 10:50,Friday,Spring,Night,Medium,4,9,76,13,15,27,55,Discharged,3
+PAT-00852,9/5/2024 9:25,Thursday,Fall,Afternoon,Low,4,10,171,22,51,78,151,Discharged,1
+PAT-00858,3/10/2024 4:20,Sunday,Spring,Evening,High,3,10,52,4,5,18,27,Discharged,4
+PAT-00869,4/27/2024 2:51,Saturday,Spring,Evening,Critical,1,3,84,2,5,17,24,Admitted,4
+PAT-00870,1/14/2024 16:29,Sunday,Winter,Evening,Medium,3,2,81,15,21,70,106,Discharged,2
+PAT-00875,8/13/2024 21:54,Tuesday,Summer,Evening,Critical,2,5,57,4,4,24,32,Admitted,3
+PAT-00876,7/7/2024 17:49,Sunday,Summer,Evening,Critical,1,4,194,1,4,5,10,Discharged,4
+PAT-00884,7/15/2024 13:11,Monday,Summer,Late Morning,Medium,3,3,163,25,38,81,144,Discharged,1
+PAT-00888,7/13/2024 4:38,Saturday,Summer,Evening,Critical,2,9,184,4,3,11,18,Discharged,4
+PAT-00893,5/1/2024 0:38,Wednesday,Spring,Evening,High,3,6,96,6,7,29,42,Admitted,4
+PAT-00896,12/5/2024 0:27,Thursday,Winter,Afternoon,Low,5,4,54,20,66,84,170,Discharged,1
+PAT-00899,9/7/2024 6:17,Saturday,Fall,Evening,Critical,2,8,108,1,6,7,14,Discharged,5
+PAT-00901,3/13/2024 0:49,Wednesday,Spring,Afternoon,Low,4,5,62,20,59,85,164,Discharged,1
+PAT-00907,6/19/2024 0:58,Wednesday,Summer,Afternoon,Medium,4,7,67,16,17,56,89,Discharged,2
+PAT-00913,9/9/2024 12:23,Monday,Fall,Afternoon,High,3,9,166,6,8,12,26,Discharged,4
+PAT-00916,4/21/2024 20:09,Sunday,Spring,Afternoon,Critical,2,6,91,3,4,7,14,Admitted,5
+PAT-00917,6/9/2024 18:26,Sunday,Summer,Evening,Critical,2,6,189,4,4,19,27,Discharged,4
+PAT-00920,9/12/2024 21:46,Thursday,Fall,Late Morning,Medium,3,8,70,7,20,29,56,Discharged,3
+PAT-00923,9/28/2024 1:46,Saturday,Fall,Late Morning,Critical,1,9,94,2,1,4,7,Admitted,4
+PAT-00926,1/10/2024 1:48,Wednesday,Winter,Early Morning,Critical,2,6,175,3,4,10,17,Discharged,5
+PAT-00932,4/23/2024 16:28,Tuesday,Spring,Afternoon,Critical,1,7,173,1,3,12,16,Admitted,5
+PAT-00938,1/22/2024 8:05,Monday,Winter,Early Morning,High,3,5,155,4,8,36,48,Discharged,4
+PAT-00946,12/1/2024 22:43,Sunday,Winter,Evening,Medium,4,7,71,15,34,60,109,Admitted,1
+PAT-00947,5/19/2024 21:02,Sunday,Spring,Evening,Critical,1,6,194,0,2,14,16,Admitted,4
+PAT-00959,9/16/2024 0:59,Monday,Fall,Evening,High,4,8,56,8,17,33,58,Admitted,3
+PAT-00960,9/2/2024 19:24,Monday,Fall,Evening,Low,4,2,135,37,91,120,248,Discharged,1
+PAT-00964,1/9/2024 14:42,Tuesday,Winter,Afternoon,Critical,1,10,124,2,3,11,16,Discharged,4
+PAT-00967,8/1/2024 10:32,Thursday,Summer,Evening,High,4,7,113,5,11,39,55,Discharged,4
+PAT-00969,12/25/2024 6:04,Wednesday,Winter,Afternoon,High,4,10,111,8,16,38,62,Admitted,3
+PAT-00970,2/4/2024 6:45,Sunday,Winter,Late Morning,Medium,3,4,57,12,15,36,63,Discharged,3
+PAT-00975,4/7/2024 6:57,Sunday,Spring,Early Morning,Low,5,1,56,14,31,47,92,Admitted,2
+PAT-00977,4/22/2024 8:27,Monday,Spring,Evening,Medium,3,7,86,10,47,88,145,Discharged,1
+PAT-00979,3/14/2024 1:13,Thursday,Spring,Afternoon,Low,5,4,82,19,52,98,169,Discharged,1
+PAT-00980,6/1/2024 18:31,Saturday,Summer,Evening,Critical,1,4,75,3,3,10,16,Discharged,5
+PAT-00982,5/7/2024 2:24,Tuesday,Spring,Evening,Medium,3,2,181,16,31,38,85,Discharged,2
+PAT-00987,10/31/2024 8:04,Thursday,Fall,Evening,Low,5,7,121,19,57,95,171,Discharged,1
+PAT-00997,11/8/2024 12:13,Friday,Fall,Afternoon,Medium,4,10,185,8,24,67,99,Admitted,2
+PAT-01001,11/2/2024 0:52,Saturday,Fall,Afternoon,Low,4,10,193,21,41,63,125,Discharged,1
+PAT-01002,4/6/2024 11:25,Saturday,Spring,Night,Medium,4,4,68,12,12,45,69,Discharged,3
+PAT-01003,7/25/2024 20:07,Thursday,Summer,Afternoon,Low,5,10,92,17,59,93,169,Discharged,1
+PAT-01006,6/6/2024 11:31,Thursday,Summer,Afternoon,Medium,3,9,60,16,25,39,80,Discharged,3
+PAT-01008,9/4/2024 1:00,Wednesday,Fall,Night,High,4,10,103,5,8,18,31,Admitted,4
+PAT-01010,12/21/2024 22:18,Saturday,Winter,Evening,High,3,9,126,7,11,47,65,Admitted,3
+PAT-01013,9/7/2024 7:02,Saturday,Fall,Evening,Low,4,1,150,15,27,67,109,Admitted,2
+PAT-01014,11/23/2024 7:43,Saturday,Fall,Evening,High,4,4,192,6,12,21,39,Admitted,4
+PAT-01021,7/9/2024 20:59,Tuesday,Summer,Evening,High,4,1,127,6,20,27,53,Discharged,4
+PAT-01025,9/13/2024 4:26,Friday,Fall,Afternoon,Critical,1,3,51,0,3,13,16,Discharged,4
+PAT-01033,5/24/2024 14:36,Friday,Spring,Afternoon,High,4,10,62,7,12,27,46,Admitted,4
+PAT-01035,7/29/2024 1:27,Monday,Summer,Night,Low,4,4,133,30,102,91,223,Left Without Being Seen,1
+PAT-01052,2/27/2024 9:02,Tuesday,Winter,Early Morning,High,3,5,145,4,6,14,24,Discharged,4
+PAT-01055,1/27/2024 8:55,Saturday,Winter,Evening,Critical,2,1,113,6,10,16,32,Admitted,4
+PAT-01060,8/5/2024 9:02,Monday,Summer,Afternoon,Low,5,2,61,24,77,141,242,Discharged,1
+PAT-01061,1/30/2024 3:45,Tuesday,Winter,Late Morning,High,3,4,79,3,10,16,29,Admitted,4
+PAT-01065,6/5/2024 5:30,Wednesday,Summer,Evening,Medium,3,8,189,19,19,62,100,Admitted,2
+PAT-01068,11/21/2024 20:08,Thursday,Fall,Afternoon,Low,4,10,53,17,45,53,115,Admitted,1
+PAT-01074,10/26/2024 11:52,Saturday,Fall,Afternoon,High,3,5,141,4,5,17,26,Discharged,4
+PAT-01077,10/16/2024 21:20,Wednesday,Fall,Evening,High,4,8,53,5,13,23,41,Discharged,3
+PAT-01084,12/14/2024 16:21,Saturday,Winter,Late Morning,High,4,1,195,7,13,37,57,Admitted,3
+PAT-01085,7/25/2024 6:32,Thursday,Summer,Early Morning,High,4,1,140,4,7,24,35,Discharged,4
+PAT-01089,12/30/2024 9:45,Monday,Winter,Late Morning,Medium,3,1,142,10,31,68,109,Admitted,2
+PAT-01090,12/8/2024 19:10,Sunday,Winter,Afternoon,High,3,9,147,4,10,23,37,Admitted,4
+PAT-01092,2/6/2024 6:19,Tuesday,Winter,Late Morning,Low,5,3,150,28,87,108,223,Left Without Being Seen,1
+PAT-01095,11/30/2024 6:18,Saturday,Fall,Evening,Critical,1,8,123,2,1,12,15,Admitted,5
+PAT-01097,9/13/2024 13:13,Friday,Fall,Evening,Medium,3,1,62,19,21,31,71,Discharged,2
+PAT-01098,10/9/2024 7:31,Wednesday,Fall,Afternoon,Medium,3,1,72,5,12,49,66,Discharged,3
+PAT-01099,5/16/2024 2:02,Thursday,Spring,Evening,Medium,4,5,110,29,35,65,129,Discharged,1
+PAT-01102,3/22/2024 13:25,Friday,Spring,Afternoon,Critical,1,2,116,3,4,12,19,Admitted,5
+PAT-01105,1/1/2024 21:48,Monday,Winter,Early Morning,High,4,8,117,7,16,42,65,Discharged,3
+PAT-01110,10/2/2024 5:20,Wednesday,Fall,Evening,Medium,4,2,71,13,31,54,98,Admitted,2
+PAT-01119,12/8/2024 11:04,Sunday,Winter,Afternoon,Low,4,7,56,29,62,77,168,Discharged,1
+PAT-01122,7/16/2024 0:06,Tuesday,Summer,Afternoon,High,3,3,83,5,11,26,42,Discharged,3
+PAT-01124,3/21/2024 4:44,Thursday,Spring,Night,High,4,6,88,5,8,28,41,Discharged,3
+PAT-01125,1/14/2024 2:15,Sunday,Winter,Afternoon,Critical,2,4,147,1,3,6,10,Admitted,5
+PAT-01126,8/23/2024 12:03,Friday,Summer,Late Morning,High,3,8,80,3,6,29,38,Admitted,4
+PAT-01133,1/19/2024 19:56,Friday,Winter,Evening,Critical,2,7,175,4,4,36,44,Admitted,3
+PAT-01135,7/26/2024 23:30,Friday,Summer,Late Morning,Medium,3,9,72,10,25,51,86,Admitted,2
+PAT-01138,10/21/2024 13:09,Monday,Fall,Evening,High,4,8,181,8,14,40,62,Admitted,3
+PAT-01144,2/23/2024 19:56,Friday,Winter,Early Morning,High,3,1,94,5,10,21,36,Discharged,3
+PAT-01147,3/23/2024 14:04,Saturday,Spring,Evening,High,4,3,163,4,9,31,44,Admitted,4
+PAT-01152,9/13/2024 0:10,Friday,Fall,Afternoon,Low,4,5,132,22,68,92,182,Discharged,1
+PAT-01156,7/3/2024 12:29,Wednesday,Summer,Evening,High,3,10,130,5,16,18,39,Admitted,4
+PAT-01158,5/31/2024 21:30,Friday,Spring,Late Morning,High,3,1,163,5,5,18,28,Discharged,4
+PAT-01161,4/11/2024 10:12,Thursday,Spring,Evening,High,4,1,153,6,13,19,38,Discharged,3
+PAT-01164,5/16/2024 4:34,Thursday,Spring,Evening,High,4,2,149,6,8,35,49,Discharged,4
+PAT-01169,11/1/2024 16:37,Friday,Fall,Evening,Low,4,4,81,25,66,82,173,Discharged,1
+PAT-01175,3/3/2024 16:59,Sunday,Spring,Afternoon,Low,4,1,84,23,45,61,129,Discharged,1
+PAT-01176,7/9/2024 6:43,Tuesday,Summer,Evening,Medium,4,10,50,18,33,65,116,Discharged,1
+PAT-01177,5/28/2024 8:52,Tuesday,Spring,Evening,Low,5,9,124,28,57,67,152,Discharged,1
+PAT-01184,4/15/2024 9:16,Monday,Spring,Afternoon,Medium,4,1,65,23,32,63,118,Admitted,1
+PAT-01193,8/1/2024 22:12,Thursday,Summer,Late Morning,Medium,4,9,114,6,19,31,56,Admitted,4
+PAT-01194,8/14/2024 9:51,Wednesday,Summer,Afternoon,High,3,3,110,7,7,27,41,Admitted,3
+PAT-01196,4/22/2024 3:54,Monday,Spring,Early Morning,Low,5,8,76,26,28,85,139,Left Without Being Seen,1
+PAT-01206,12/2/2024 10:35,Monday,Winter,Evening,Medium,4,9,198,34,37,75,146,Discharged,1
+PAT-01208,8/7/2024 16:34,Wednesday,Summer,Evening,High,4,7,104,7,11,28,46,Admitted,4
+PAT-01211,6/19/2024 12:30,Wednesday,Summer,Early Morning,Low,4,6,189,22,41,74,137,Discharged,1
+PAT-01212,2/5/2024 22:00,Monday,Winter,Afternoon,Critical,1,7,117,4,4,20,28,Admitted,4
+PAT-01231,9/10/2024 0:30,Tuesday,Fall,Afternoon,Critical,1,6,180,1,3,5,9,Discharged,5
+PAT-01232,7/26/2024 21:53,Friday,Summer,Afternoon,Medium,4,6,170,9,29,66,104,Admitted,1
+PAT-01233,10/19/2024 11:05,Saturday,Fall,Evening,Critical,2,1,140,2,6,6,14,Admitted,5
+PAT-01237,4/13/2024 3:57,Saturday,Spring,Evening,Medium,3,6,174,18,28,50,96,Admitted,2
+PAT-01242,9/16/2024 10:57,Monday,Fall,Evening,High,4,9,160,5,9,19,33,Admitted,4
+PAT-01247,7/6/2024 15:40,Saturday,Summer,Evening,Medium,4,4,55,14,31,62,107,Discharged,1
+PAT-01248,2/5/2024 20:36,Monday,Winter,Afternoon,Medium,3,5,98,30,24,74,128,Discharged,1
+PAT-01253,4/12/2024 10:13,Friday,Spring,Early Morning,High,4,9,69,3,5,25,33,Discharged,4
+PAT-01258,2/5/2024 7:32,Monday,Winter,Early Morning,Low,4,4,131,20,70,109,199,Discharged,1
+PAT-01266,6/13/2024 21:13,Thursday,Summer,Early Morning,Critical,2,3,56,2,2,5,9,Discharged,5
+PAT-01286,1/6/2024 5:49,Saturday,Winter,Evening,Critical,1,4,125,3,6,22,31,Discharged,4
+PAT-01289,6/14/2024 12:36,Friday,Summer,Evening,Medium,3,10,52,22,20,74,116,Discharged,1
+PAT-01291,5/21/2024 6:09,Tuesday,Spring,Afternoon,Critical,1,10,162,2,3,12,17,Admitted,4
+PAT-01292,7/29/2024 3:09,Monday,Summer,Late Morning,High,4,6,173,9,10,43,62,Admitted,3
+PAT-01296,4/23/2024 0:50,Tuesday,Spring,Afternoon,Medium,3,5,196,7,23,53,83,Discharged,2
+PAT-01302,2/1/2024 0:40,Thursday,Winter,Afternoon,High,4,6,187,5,9,21,35,Admitted,4
+PAT-01312,3/11/2024 17:04,Monday,Spring,Evening,High,3,9,81,9,19,26,54,Discharged,3
+PAT-01313,8/8/2024 14:14,Thursday,Summer,Evening,Low,5,3,175,30,82,94,206,Left Without Being Seen,1
+PAT-01315,4/26/2024 14:10,Friday,Spring,Early Morning,Low,5,10,151,16,24,60,100,Discharged,2
+PAT-01318,4/9/2024 6:50,Tuesday,Spring,Afternoon,Low,5,2,188,23,54,80,157,Discharged,1
+PAT-01319,5/15/2024 6:55,Wednesday,Spring,Evening,Critical,2,1,116,3,3,12,18,Admitted,5
+PAT-01328,3/16/2024 8:24,Saturday,Spring,Afternoon,High,4,6,185,3,11,19,33,Discharged,4
+PAT-01329,2/12/2024 10:15,Monday,Winter,Afternoon,Medium,3,1,91,27,33,77,137,Left Without Being Seen,1
+PAT-01332,1/14/2024 10:53,Sunday,Winter,Evening,Low,4,8,100,24,74,89,187,Left Without Being Seen,1
+PAT-01345,10/1/2024 8:42,Tuesday,Fall,Evening,High,3,9,73,5,11,16,32,Admitted,4
+PAT-01346,6/9/2024 13:23,Sunday,Summer,Late Morning,Medium,3,1,108,13,9,47,69,Admitted,2
+PAT-01370,12/11/2024 18:29,Wednesday,Winter,Evening,Low,5,9,55,42,101,146,289,Left Without Being Seen,1
+PAT-01372,4/17/2024 19:09,Wednesday,Spring,Evening,High,4,4,94,5,16,17,38,Discharged,4
+PAT-01377,5/14/2024 10:00,Tuesday,Spring,Evening,Medium,4,7,86,23,26,72,121,Discharged,1
+PAT-01389,3/5/2024 10:51,Tuesday,Spring,Evening,High,4,7,50,7,9,29,45,Admitted,3
+PAT-01391,7/3/2024 14:23,Wednesday,Summer,Night,Critical,2,8,62,2,6,6,14,Admitted,5
+PAT-01397,5/25/2024 14:48,Saturday,Spring,Night,Medium,4,1,118,19,32,39,90,Admitted,2
+PAT-01398,11/4/2024 20:59,Monday,Fall,Early Morning,Low,4,6,87,19,33,62,114,Discharged,1
+PAT-01402,6/12/2024 14:34,Wednesday,Summer,Early Morning,Low,4,5,72,15,42,54,111,Discharged,2
+PAT-01404,11/4/2024 22:38,Monday,Fall,Afternoon,Low,4,5,105,17,84,96,197,Discharged,1
+PAT-01408,12/13/2024 4:17,Friday,Winter,Night,Medium,4,9,95,31,41,82,154,Discharged,1
+PAT-01415,5/18/2024 21:23,Saturday,Spring,Late Morning,Critical,1,3,83,1,1,3,5,Admitted,5
+PAT-01417,8/14/2024 14:33,Wednesday,Summer,Early Morning,High,3,9,199,2,5,19,26,Discharged,4
+PAT-01422,12/26/2024 7:53,Thursday,Winter,Late Morning,Medium,3,8,59,15,16,71,102,Discharged,1
+PAT-01425,3/26/2024 20:40,Tuesday,Spring,Afternoon,Medium,3,4,164,11,23,24,58,Admitted,3
+PAT-01430,9/8/2024 8:17,Sunday,Fall,Evening,Low,4,2,112,12,25,55,92,Discharged,2
+PAT-01432,10/25/2024 21:52,Friday,Fall,Evening,High,3,7,195,4,11,22,37,Discharged,4
+PAT-01435,10/29/2024 22:20,Tuesday,Fall,Afternoon,Low,4,2,129,17,53,47,117,Admitted,1
+PAT-01445,3/26/2024 5:12,Tuesday,Spring,Evening,Low,5,3,149,35,74,113,222,Discharged,1
+PAT-01448,4/27/2024 3:46,Saturday,Spring,Afternoon,Critical,1,5,156,0,4,12,16,Discharged,5
+PAT-01454,9/13/2024 23:43,Friday,Fall,Afternoon,Medium,4,4,97,19,20,35,74,Admitted,3
+PAT-01465,2/17/2024 22:30,Saturday,Winter,Afternoon,High,4,2,132,7,9,19,35,Discharged,4
+PAT-01466,8/22/2024 14:34,Thursday,Summer,Evening,Critical,2,1,75,5,5,15,25,Discharged,5
+PAT-01467,11/25/2024 11:35,Monday,Fall,Late Morning,Low,4,6,175,24,39,62,125,Left Without Being Seen,1
+PAT-01470,2/24/2024 22:13,Saturday,Winter,Afternoon,Medium,4,7,125,27,37,68,132,Left Without Being Seen,1
+PAT-01477,4/11/2024 22:02,Thursday,Spring,Evening,Medium,4,9,186,9,31,82,122,Discharged,1
+PAT-01479,11/3/2024 22:09,Sunday,Fall,Afternoon,Low,4,3,80,20,34,65,119,Admitted,1
+PAT-01484,9/6/2024 1:09,Friday,Fall,Evening,Low,4,6,94,21,43,77,141,Discharged,1
+PAT-01486,7/31/2024 19:29,Wednesday,Summer,Late Morning,Critical,2,2,145,1,5,6,12,Discharged,4
+PAT-01488,5/7/2024 13:22,Tuesday,Spring,Evening,High,4,1,123,5,16,31,52,Admitted,3
+PAT-01491,6/25/2024 9:41,Tuesday,Summer,Afternoon,High,4,7,68,6,12,22,40,Admitted,4
+PAT-01496,8/1/2024 1:26,Thursday,Summer,Afternoon,Critical,1,5,139,2,2,7,11,Discharged,5
+PAT-01497,12/18/2024 23:01,Wednesday,Winter,Early Morning,Medium,3,9,167,12,25,24,61,Discharged,3
+PAT-01498,8/29/2024 11:23,Thursday,Summer,Afternoon,High,3,9,183,6,13,34,53,Admitted,3
+PAT-01499,6/15/2024 3:29,Saturday,Summer,Night,Critical,1,6,178,1,3,14,18,Admitted,5
+PAT-01506,12/30/2024 19:51,Monday,Winter,Evening,Critical,1,3,180,2,4,31,37,Discharged,4
+PAT-01517,8/17/2024 1:06,Saturday,Summer,Afternoon,Medium,3,1,160,8,29,50,87,Discharged,2
+PAT-01522,4/4/2024 9:43,Thursday,Spring,Late Morning,Critical,2,9,119,2,3,14,19,Discharged,4
+PAT-01523,2/17/2024 14:19,Saturday,Winter,Evening,Medium,4,7,155,33,42,96,171,Left Without Being Seen,1
+PAT-01532,11/29/2024 1:15,Friday,Fall,Evening,Medium,3,6,95,14,32,58,104,Admitted,2
+PAT-01535,2/25/2024 6:11,Sunday,Winter,Evening,High,4,10,96,6,10,36,52,Discharged,3
+PAT-01538,8/31/2024 6:24,Saturday,Summer,Evening,Critical,1,7,112,2,7,18,27,Discharged,4
+PAT-01541,1/25/2024 14:28,Thursday,Winter,Evening,High,4,6,148,9,18,54,81,Discharged,2
+PAT-01545,9/10/2024 17:59,Tuesday,Fall,Afternoon,Medium,3,7,194,11,19,26,56,Admitted,3
+PAT-01548,5/11/2024 13:57,Saturday,Spring,Early Morning,Medium,3,6,77,6,18,19,43,Discharged,3
+PAT-01554,2/15/2024 9:16,Thursday,Winter,Early Morning,High,4,7,178,4,14,14,32,Discharged,4
+PAT-01562,4/27/2024 3:21,Saturday,Spring,Evening,High,4,6,166,8,8,19,35,Admitted,4
+PAT-01566,6/16/2024 1:48,Sunday,Summer,Evening,Low,4,10,88,18,60,122,200,Discharged,1
+PAT-01570,7/1/2024 11:34,Monday,Summer,Evening,Critical,1,5,68,5,7,25,37,Admitted,4
+PAT-01571,8/27/2024 4:14,Tuesday,Summer,Afternoon,Critical,2,2,103,2,2,11,15,Admitted,4
+PAT-01572,8/26/2024 7:33,Monday,Summer,Afternoon,High,4,1,50,6,17,40,63,Admitted,3
+PAT-01575,8/26/2024 7:47,Monday,Summer,Evening,High,3,10,118,7,15,55,77,Discharged,3
+PAT-01576,6/10/2024 13:51,Monday,Summer,Afternoon,Medium,3,4,79,17,39,90,146,Discharged,1
+PAT-01583,5/18/2024 5:41,Saturday,Spring,Evening,Low,5,2,164,28,39,119,186,Discharged,1
+PAT-01588,8/5/2024 18:57,Monday,Summer,Evening,Low,4,7,78,38,113,107,258,Discharged,1
+PAT-01589,12/20/2024 18:41,Friday,Winter,Evening,Medium,4,2,84,15,42,71,128,Left Without Being Seen,1
+PAT-01591,1/14/2024 3:32,Sunday,Winter,Evening,Medium,4,8,179,12,47,67,126,Discharged,1
+PAT-01598,4/9/2024 1:51,Tuesday,Spring,Evening,High,4,7,177,7,9,23,39,Discharged,3
+PAT-01600,4/1/2024 23:35,Monday,Spring,Early Morning,Medium,3,7,82,5,21,33,59,Discharged,3
+PAT-01613,12/21/2024 17:03,Saturday,Winter,Afternoon,Medium,3,5,192,15,32,31,78,Admitted,3
+PAT-01617,7/6/2024 21:20,Saturday,Summer,Afternoon,Critical,2,1,89,1,3,15,19,Discharged,4
+PAT-01623,12/28/2024 16:29,Saturday,Winter,Night,Medium,3,10,63,12,20,39,71,Admitted,3
+PAT-01626,7/1/2024 13:24,Monday,Summer,Evening,High,3,10,73,7,12,63,82,Admitted,2
+PAT-01628,5/29/2024 21:32,Wednesday,Spring,Afternoon,Medium,3,7,130,14,20,27,61,Admitted,3
+PAT-01631,6/17/2024 15:12,Monday,Summer,Evening,Medium,3,6,158,29,41,64,134,Discharged,1
+PAT-01635,10/18/2024 23:04,Friday,Fall,Night,Low,5,10,167,23,42,66,131,Discharged,1
+PAT-01649,1/4/2024 15:44,Thursday,Winter,Late Morning,Medium,4,5,133,22,20,38,80,Discharged,3
+PAT-01650,2/14/2024 23:11,Wednesday,Winter,Evening,Critical,1,4,151,1,8,8,17,Admitted,4
+PAT-01659,7/22/2024 22:47,Monday,Summer,Afternoon,Low,4,2,172,35,108,133,276,Discharged,1
+PAT-01662,5/28/2024 9:28,Tuesday,Spring,Afternoon,Low,5,5,72,28,72,63,163,Discharged,1
+PAT-01670,7/28/2024 20:31,Sunday,Summer,Afternoon,High,4,3,188,5,8,28,41,Admitted,4
+PAT-01671,11/19/2024 11:38,Tuesday,Fall,Evening,Medium,3,9,94,20,16,37,73,Admitted,3
+PAT-01674,6/8/2024 6:31,Saturday,Summer,Evening,High,3,1,165,6,17,25,48,Admitted,4
+PAT-01681,2/7/2024 15:51,Wednesday,Winter,Afternoon,Critical,1,9,131,2,7,15,24,Discharged,4
+PAT-01682,1/21/2024 11:27,Sunday,Winter,Early Morning,Critical,1,1,113,1,3,7,11,Discharged,4
+PAT-01690,10/6/2024 16:49,Sunday,Fall,Afternoon,Low,4,8,172,12,34,66,112,Discharged,1
+PAT-01693,2/11/2024 0:52,Sunday,Winter,Night,Medium,3,10,165,13,23,57,93,Admitted,2
+PAT-01698,5/10/2024 0:31,Friday,Spring,Early Morning,Critical,2,6,93,2,3,11,16,Admitted,4
+PAT-01703,11/24/2024 9:22,Sunday,Fall,Evening,Low,5,6,99,16,44,56,116,Admitted,1
+PAT-01713,2/1/2024 8:06,Thursday,Winter,Evening,High,4,10,85,12,24,57,93,Admitted,2
+PAT-01716,6/30/2024 11:12,Sunday,Summer,Evening,Medium,3,6,84,16,21,50,87,Admitted,2
+PAT-01717,7/21/2024 8:22,Sunday,Summer,Afternoon,Critical,1,7,126,1,1,14,16,Admitted,4
+PAT-01720,7/28/2024 8:47,Sunday,Summer,Evening,Medium,4,9,92,8,42,49,99,Discharged,2
+PAT-01729,2/14/2024 2:23,Wednesday,Winter,Evening,High,3,10,197,6,19,36,61,Discharged,3
+PAT-01734,6/9/2024 0:26,Sunday,Summer,Night,Critical,2,5,50,2,4,9,15,Discharged,5
+PAT-01739,1/19/2024 9:54,Friday,Winter,Evening,High,3,4,112,12,14,59,85,Discharged,2
+PAT-01744,4/2/2024 9:10,Tuesday,Spring,Early Morning,High,4,4,140,3,7,18,28,Admitted,4
+PAT-01747,1/15/2024 20:35,Monday,Winter,Late Morning,Low,4,2,86,27,87,133,247,Discharged,1
+PAT-01763,12/21/2024 17:27,Saturday,Winter,Afternoon,High,3,4,115,4,9,39,52,Admitted,3
+PAT-01765,1/22/2024 8:13,Monday,Winter,Afternoon,Critical,1,7,127,5,3,15,23,Admitted,4
+PAT-01766,1/2/2024 20:48,Tuesday,Winter,Early Morning,Critical,1,9,143,2,2,6,10,Discharged,5
+PAT-01774,10/15/2024 7:21,Tuesday,Fall,Evening,Critical,1,9,55,1,4,12,17,Discharged,5
+PAT-01780,12/23/2024 1:09,Monday,Winter,Early Morning,Low,5,4,199,29,38,79,146,Left Without Being Seen,1
+PAT-01786,1/18/2024 19:50,Thursday,Winter,Evening,High,4,7,68,12,14,59,85,Admitted,2
+PAT-01795,4/21/2024 10:02,Sunday,Spring,Evening,Critical,2,4,86,1,3,12,16,Discharged,5
+PAT-01798,5/23/2024 18:27,Thursday,Spring,Afternoon,Medium,3,4,114,5,12,48,65,Admitted,3
+PAT-01803,5/29/2024 20:44,Wednesday,Spring,Afternoon,Low,4,3,56,17,33,55,105,Admitted,1
+PAT-01808,7/8/2024 14:34,Monday,Summer,Night,Critical,1,10,76,1,4,13,18,Admitted,4
+PAT-01811,5/4/2024 9:43,Saturday,Spring,Evening,Medium,4,9,117,15,34,68,117,Admitted,1
+PAT-01817,11/4/2024 5:53,Monday,Fall,Afternoon,High,3,6,118,3,9,29,41,Admitted,3
+PAT-01827,10/6/2024 10:25,Sunday,Fall,Late Morning,Critical,1,6,136,1,1,5,7,Admitted,4
+PAT-01830,1/11/2024 2:59,Thursday,Winter,Evening,Medium,4,9,125,14,32,104,150,Discharged,1
+PAT-01831,12/9/2024 16:45,Monday,Winter,Evening,High,3,5,81,12,12,27,51,Discharged,4
+PAT-01834,2/24/2024 22:32,Saturday,Winter,Late Morning,High,4,10,129,5,11,25,41,Admitted,3
+PAT-01836,10/22/2024 2:07,Tuesday,Fall,Afternoon,Medium,3,6,93,6,21,30,57,Admitted,3
+PAT-01839,11/19/2024 11:40,Tuesday,Fall,Evening,Critical,2,9,196,2,2,16,20,Discharged,4
+PAT-01844,2/27/2024 1:57,Tuesday,Winter,Afternoon,Critical,2,5,86,1,6,22,29,Admitted,4
+PAT-01847,11/25/2024 13:07,Monday,Fall,Afternoon,High,3,10,128,4,13,23,40,Discharged,4
+PAT-01853,11/30/2024 11:55,Saturday,Fall,Early Morning,Low,4,7,50,13,22,42,77,Admitted,3
+PAT-01859,6/26/2024 10:34,Wednesday,Summer,Afternoon,High,4,6,163,6,13,34,53,Discharged,3
+PAT-01862,7/22/2024 4:24,Monday,Summer,Afternoon,Critical,1,1,51,3,6,12,21,Admitted,4
+PAT-01863,6/11/2024 3:26,Tuesday,Summer,Late Morning,Critical,1,8,139,0,4,7,11,Admitted,5
+PAT-01864,12/24/2024 11:24,Tuesday,Winter,Evening,High,3,5,183,11,22,49,82,Admitted,2
+PAT-01865,8/19/2024 14:26,Monday,Summer,Late Morning,High,3,5,164,6,14,31,51,Discharged,3
+PAT-01872,8/21/2024 4:40,Wednesday,Summer,Night,Critical,1,3,73,1,5,14,20,Admitted,4
+PAT-01879,10/28/2024 12:59,Monday,Fall,Late Morning,Medium,3,10,97,15,29,30,74,Admitted,3
+PAT-01886,11/13/2024 2:47,Wednesday,Fall,Afternoon,Low,4,3,130,22,52,70,144,Discharged,1
+PAT-01888,6/25/2024 9:40,Tuesday,Summer,Afternoon,Medium,3,7,129,18,18,47,83,Discharged,2
+PAT-01891,5/2/2024 20:24,Thursday,Spring,Afternoon,Low,5,7,170,23,49,77,149,Discharged,1
+PAT-01910,1/17/2024 16:55,Wednesday,Winter,Evening,Critical,2,6,178,6,4,23,33,Admitted,4
+PAT-01915,2/15/2024 3:52,Thursday,Winter,Late Morning,Medium,4,2,167,23,29,59,111,Admitted,1
+PAT-01917,4/18/2024 5:31,Thursday,Spring,Afternoon,High,3,6,72,4,8,27,39,Discharged,4
+PAT-01926,6/1/2024 23:30,Saturday,Summer,Late Morning,Low,4,2,147,14,36,57,107,Discharged,1
+PAT-01928,12/25/2024 12:52,Wednesday,Winter,Evening,Critical,1,10,65,5,5,15,25,Discharged,4
+PAT-01932,2/8/2024 0:07,Thursday,Winter,Evening,Low,4,2,146,22,113,116,251,Left Without Being Seen,1
+PAT-01937,12/3/2024 20:43,Tuesday,Winter,Afternoon,High,4,4,121,10,19,45,74,Admitted,3
+PAT-01940,1/24/2024 22:22,Wednesday,Winter,Evening,Low,4,7,109,34,51,102,187,Discharged,1
+PAT-01949,3/2/2024 6:00,Saturday,Spring,Late Morning,Low,4,2,102,22,30,60,112,Discharged,2
+PAT-01953,8/8/2024 6:57,Thursday,Summer,Evening,High,3,2,100,7,11,47,65,Discharged,3
+PAT-01967,12/20/2024 12:15,Friday,Winter,Late Morning,Low,4,2,104,27,44,112,183,Left Without Being Seen,1
+PAT-01968,4/25/2024 17:28,Thursday,Spring,Late Morning,Critical,1,8,173,1,3,4,8,Admitted,4
+PAT-01972,10/28/2024 19:58,Monday,Fall,Evening,Low,5,10,73,37,78,159,274,Discharged,1
+PAT-01976,6/20/2024 21:32,Thursday,Summer,Early Morning,Low,5,3,109,15,48,59,122,Discharged,1
+PAT-01977,1/31/2024 8:33,Wednesday,Winter,Early Morning,High,3,7,61,3,5,15,23,Discharged,4
+PAT-01983,7/8/2024 10:13,Monday,Summer,Afternoon,High,3,10,200,5,16,42,63,Discharged,3
+PAT-01985,9/26/2024 22:17,Thursday,Fall,Late Morning,Critical,2,1,200,2,4,12,18,Admitted,4
+PAT-01990,1/7/2024 9:26,Sunday,Winter,Evening,Critical,1,2,77,2,4,9,15,Discharged,5
+PAT-01999,11/18/2024 0:07,Monday,Fall,Evening,Low,5,8,139,38,56,129,223,Discharged,1
+PAT-02008,9/9/2024 15:32,Monday,Fall,Evening,Low,4,3,106,24,63,147,234,Discharged,1
+PAT-02018,4/15/2024 5:45,Monday,Spring,Evening,Medium,3,1,146,20,20,81,121,Discharged,1
+PAT-02023,10/28/2024 22:24,Monday,Fall,Afternoon,Critical,1,10,117,2,5,6,13,Admitted,4
+PAT-02045,9/28/2024 18:55,Saturday,Fall,Night,High,4,1,61,4,11,23,38,Discharged,4
+PAT-02047,7/4/2024 11:51,Thursday,Summer,Evening,Critical,1,6,181,4,6,21,31,Admitted,4
+PAT-02051,12/10/2024 14:07,Tuesday,Winter,Early Morning,High,3,9,131,3,12,20,35,Admitted,4
+PAT-02060,5/25/2024 23:47,Saturday,Spring,Late Morning,Critical,2,4,52,1,1,10,12,Discharged,4
+PAT-02072,4/4/2024 23:05,Thursday,Spring,Late Morning,Low,4,8,178,20,30,66,116,Admitted,1
+PAT-02078,10/9/2024 15:20,Wednesday,Fall,Evening,Low,4,7,123,20,31,106,157,Left Without Being Seen,1
+PAT-02082,2/24/2024 15:44,Saturday,Winter,Evening,Critical,2,6,60,3,9,21,33,Admitted,3
+PAT-02089,1/15/2024 23:43,Monday,Winter,Afternoon,Low,4,1,88,47,107,135,289,Discharged,1
+PAT-02090,4/10/2024 13:09,Wednesday,Spring,Afternoon,Medium,3,3,78,10,27,40,77,Admitted,3
+PAT-02093,2/11/2024 13:58,Sunday,Winter,Evening,Critical,2,9,98,3,8,15,26,Admitted,4
+PAT-02095,8/15/2024 2:08,Thursday,Summer,Evening,Medium,3,6,102,18,25,77,120,Discharged,1
+PAT-02098,11/4/2024 17:44,Monday,Fall,Afternoon,Low,4,5,58,21,76,84,181,Discharged,1
+PAT-02103,5/28/2024 18:22,Tuesday,Spring,Late Morning,Medium,3,10,186,15,21,35,71,Discharged,2
+PAT-02104,7/14/2024 17:27,Sunday,Summer,Afternoon,High,3,8,131,3,6,18,27,Discharged,4
+PAT-02118,9/9/2024 17:25,Monday,Fall,Early Morning,Medium,3,5,137,12,16,25,53,Discharged,3
+PAT-02125,9/19/2024 2:44,Thursday,Fall,Afternoon,Critical,2,8,196,3,5,17,25,Discharged,4
+PAT-02127,12/11/2024 10:57,Wednesday,Winter,Afternoon,Medium,4,5,163,26,40,44,110,Admitted,2
+PAT-02149,1/29/2024 8:23,Monday,Winter,Afternoon,High,4,4,56,8,25,42,75,Admitted,3
+PAT-02152,4/12/2024 12:35,Friday,Spring,Evening,High,4,2,192,7,13,36,56,Discharged,4
+PAT-02161,3/9/2024 23:39,Saturday,Spring,Afternoon,Critical,2,1,143,2,2,9,13,Admitted,5
+PAT-02168,6/15/2024 10:48,Saturday,Summer,Late Morning,Critical,2,8,175,2,3,14,19,Admitted,4
+PAT-02171,3/27/2024 22:14,Wednesday,Spring,Evening,Medium,4,4,89,11,40,40,91,Discharged,2
+PAT-02180,4/18/2024 3:59,Thursday,Spring,Afternoon,High,3,9,78,4,10,14,28,Admitted,5
+PAT-02186,4/3/2024 2:18,Wednesday,Spring,Evening,High,3,7,110,7,14,26,47,Discharged,3
+PAT-02188,11/15/2024 6:19,Friday,Fall,Early Morning,Critical,2,10,184,2,1,6,9,Discharged,5
+PAT-02202,5/19/2024 5:59,Sunday,Spring,Early Morning,Medium,4,6,163,11,19,23,53,Admitted,4
+PAT-02208,10/18/2024 6:46,Friday,Fall,Evening,Low,5,2,198,32,41,86,159,Discharged,1
+PAT-02209,10/27/2024 22:25,Sunday,Fall,Late Morning,Low,5,7,185,11,36,45,92,Admitted,2
+PAT-02216,6/17/2024 23:04,Monday,Summer,Afternoon,Low,4,5,189,31,103,94,228,Discharged,1
+PAT-02217,11/8/2024 20:29,Friday,Fall,Evening,Low,5,2,76,24,40,103,167,Discharged,1
+PAT-02224,1/12/2024 8:25,Friday,Winter,Late Morning,Critical,1,3,186,3,4,11,18,Admitted,5
+PAT-02225,4/8/2024 5:50,Monday,Spring,Evening,Medium,4,6,162,31,52,117,200,Discharged,1
+PAT-02229,4/4/2024 2:26,Thursday,Spring,Evening,High,3,1,133,6,13,36,55,Discharged,3
+PAT-02231,12/24/2024 18:23,Tuesday,Winter,Afternoon,High,3,9,123,6,11,18,35,Discharged,4
+PAT-02233,5/9/2024 18:39,Thursday,Spring,Afternoon,High,4,2,124,6,12,38,56,Discharged,3
+PAT-02236,6/2/2024 3:32,Sunday,Summer,Evening,Low,4,6,97,29,46,94,169,Discharged,1
+PAT-02238,8/4/2024 0:22,Sunday,Summer,Afternoon,Low,5,8,184,26,64,71,161,Discharged,1
+PAT-02242,4/4/2024 13:39,Thursday,Spring,Evening,Low,4,5,141,27,38,112,177,Discharged,1
+PAT-02245,5/18/2024 9:04,Saturday,Spring,Evening,Medium,3,5,190,12,17,32,61,Discharged,3
+PAT-02246,10/13/2024 5:27,Sunday,Fall,Evening,Critical,1,2,106,1,2,6,9,Admitted,5
+PAT-02256,10/6/2024 5:40,Sunday,Fall,Evening,Low,5,10,129,24,31,64,119,Discharged,1
+PAT-02266,11/25/2024 19:51,Monday,Fall,Evening,Critical,2,10,165,5,3,23,31,Discharged,4
+PAT-02275,7/31/2024 11:15,Wednesday,Summer,Night,Critical,2,7,173,2,5,11,18,Admitted,5
+PAT-02277,4/19/2024 15:00,Friday,Spring,Afternoon,Medium,3,6,84,21,27,64,112,Admitted,1
+PAT-02280,3/19/2024 18:45,Tuesday,Spring,Evening,High,3,1,177,7,7,30,44,Discharged,3
+PAT-02298,2/16/2024 21:37,Friday,Winter,Night,Medium,4,1,192,12,24,60,96,Discharged,2
+PAT-02299,2/1/2024 15:29,Thursday,Winter,Evening,Medium,4,3,132,21,43,100,164,Discharged,1
+PAT-02300,10/3/2024 13:27,Thursday,Fall,Late Morning,Critical,1,6,143,2,2,7,11,Admitted,4
+PAT-02305,10/29/2024 21:12,Tuesday,Fall,Afternoon,Low,4,2,149,24,38,59,121,Discharged,1
+PAT-02309,5/29/2024 1:20,Wednesday,Spring,Afternoon,Critical,2,2,89,2,6,12,20,Admitted,5
+PAT-02319,11/16/2024 2:30,Saturday,Fall,Evening,Low,5,6,133,28,75,75,178,Discharged,1
+PAT-02333,6/19/2024 5:51,Wednesday,Summer,Evening,Medium,4,1,129,24,52,61,137,Left Without Being Seen,1
+PAT-02340,2/18/2024 18:13,Sunday,Winter,Night,High,4,5,146,4,7,33,44,Admitted,3
+PAT-02344,4/17/2024 4:31,Wednesday,Spring,Afternoon,Medium,4,1,194,10,36,30,76,Discharged,3
+PAT-02346,8/18/2024 5:19,Sunday,Summer,Evening,High,4,5,72,5,14,35,54,Admitted,3
+PAT-02348,7/29/2024 23:29,Monday,Summer,Late Morning,Medium,4,4,65,15,25,87,127,Discharged,1
+PAT-02351,10/1/2024 7:17,Tuesday,Fall,Afternoon,Low,4,7,110,25,25,70,120,Admitted,1
+PAT-02355,12/26/2024 1:02,Thursday,Winter,Early Morning,Low,5,3,117,17,55,80,152,Discharged,1
+PAT-02357,6/26/2024 1:30,Wednesday,Summer,Evening,Low,5,2,122,38,61,97,196,Discharged,1
+PAT-02359,11/18/2024 3:52,Monday,Fall,Afternoon,Medium,3,3,66,21,22,52,95,Admitted,2
+PAT-02364,6/10/2024 17:18,Monday,Summer,Evening,Low,4,8,177,35,66,125,226,Discharged,1
+PAT-02370,3/27/2024 21:02,Wednesday,Spring,Evening,Medium,3,9,65,20,32,40,92,Discharged,2
+PAT-02373,2/8/2024 6:15,Thursday,Winter,Evening,Critical,1,4,108,5,5,15,25,Admitted,4
+PAT-02375,8/5/2024 6:46,Monday,Summer,Afternoon,High,4,9,50,9,11,22,42,Discharged,4
+PAT-02380,3/21/2024 23:13,Thursday,Spring,Afternoon,Low,5,7,74,28,56,77,161,Discharged,1
+PAT-02384,10/2/2024 22:35,Wednesday,Fall,Early Morning,Medium,4,1,127,4,19,35,58,Admitted,3
+PAT-02394,4/25/2024 18:06,Thursday,Spring,Afternoon,Critical,1,2,189,2,4,12,18,Admitted,5
+PAT-02395,2/28/2024 0:12,Wednesday,Winter,Evening,Low,4,6,186,42,80,123,245,Discharged,1
+PAT-02400,3/7/2024 16:35,Thursday,Spring,Early Morning,Critical,2,1,60,0,3,3,6,Discharged,5
+PAT-02408,8/7/2024 22:27,Wednesday,Summer,Evening,Critical,1,4,107,2,2,12,16,Discharged,5
+PAT-02412,12/29/2024 9:53,Sunday,Winter,Afternoon,High,4,1,168,6,8,27,41,Discharged,3
+PAT-02422,9/19/2024 2:25,Thursday,Fall,Evening,Medium,3,3,71,8,34,49,91,Discharged,1
+PAT-02425,9/24/2024 8:30,Tuesday,Fall,Night,Low,5,7,133,19,31,75,125,Left Without Being Seen,1
+PAT-02428,11/27/2024 0:41,Wednesday,Fall,Afternoon,High,3,1,180,4,9,21,34,Admitted,4
+PAT-02430,7/27/2024 7:48,Saturday,Summer,Evening,Low,5,1,62,32,46,99,177,Discharged,1
+PAT-02431,6/13/2024 21:07,Thursday,Summer,Afternoon,Medium,3,5,185,16,24,33,73,Discharged,3
+PAT-02436,5/25/2024 16:44,Saturday,Spring,Late Morning,Critical,2,4,169,0,3,13,16,Discharged,5
+PAT-02442,7/21/2024 9:45,Sunday,Summer,Afternoon,Critical,1,2,73,0,1,12,13,Admitted,5
+PAT-02451,9/29/2024 21:29,Sunday,Fall,Evening,High,3,1,81,5,9,21,35,Discharged,4
+PAT-02452,10/19/2024 0:59,Saturday,Fall,Afternoon,Medium,4,8,105,12,19,42,73,Discharged,3
+PAT-02457,7/29/2024 4:05,Monday,Summer,Evening,Medium,4,9,183,34,51,92,177,Discharged,1
+PAT-02460,10/1/2024 1:14,Tuesday,Fall,Evening,Critical,1,10,103,2,2,9,13,Discharged,4
+PAT-02463,9/3/2024 14:47,Tuesday,Fall,Late Morning,Critical,2,8,58,2,2,6,10,Admitted,5
+PAT-02471,10/20/2024 19:16,Sunday,Fall,Afternoon,Low,4,4,128,10,38,52,100,Discharged,1
+PAT-02478,1/10/2024 11:01,Wednesday,Winter,Late Morning,Critical,1,10,185,1,2,6,9,Admitted,5
+PAT-02489,11/30/2024 20:19,Saturday,Fall,Afternoon,Low,5,4,52,15,30,74,119,Admitted,1
+PAT-02494,6/16/2024 2:01,Sunday,Summer,Evening,Low,5,3,65,28,61,77,166,Discharged,1
+PAT-02504,2/10/2024 15:30,Saturday,Winter,Late Morning,High,4,8,71,7,14,34,55,Admitted,3
+PAT-02507,12/21/2024 2:20,Saturday,Winter,Evening,Critical,2,2,145,6,8,12,26,Discharged,4
+PAT-02525,12/14/2024 16:30,Saturday,Winter,Late Morning,Medium,3,4,106,5,11,34,50,Admitted,4
+PAT-02530,8/18/2024 18:05,Sunday,Summer,Evening,High,4,4,90,7,9,37,53,Admitted,4
+PAT-02531,9/2/2024 15:31,Monday,Fall,Evening,High,4,7,174,8,12,38,58,Admitted,3
+PAT-02536,4/20/2024 23:51,Saturday,Spring,Afternoon,Low,4,6,75,27,50,57,134,Left Without Being Seen,1
+PAT-02542,12/17/2024 16:30,Tuesday,Winter,Evening,High,4,4,68,10,12,44,66,Admitted,3
+PAT-02543,2/8/2024 0:06,Thursday,Winter,Afternoon,Critical,1,2,95,2,3,18,23,Discharged,5
+PAT-02554,7/19/2024 16:44,Friday,Summer,Late Morning,Low,4,9,61,19,81,73,173,Discharged,1
+PAT-02556,5/13/2024 1:02,Monday,Spring,Afternoon,High,4,10,148,8,10,36,54,Discharged,3
+PAT-02559,4/28/2024 7:23,Sunday,Spring,Early Morning,Medium,4,2,159,9,8,37,54,Admitted,3
+PAT-02563,12/22/2024 10:41,Sunday,Winter,Evening,Low,5,8,121,25,73,137,235,Discharged,1
+PAT-02567,8/22/2024 19:31,Thursday,Summer,Night,High,3,4,189,5,12,33,50,Admitted,4
+PAT-02572,5/7/2024 0:18,Tuesday,Spring,Afternoon,High,3,4,113,3,6,16,25,Discharged,4
+PAT-02574,7/26/2024 1:23,Friday,Summer,Night,Medium,4,4,117,10,27,42,79,Discharged,3
+PAT-02575,3/16/2024 20:38,Saturday,Spring,Evening,Low,5,7,80,25,72,69,166,Left Without Being Seen,1
+PAT-02583,6/27/2024 15:49,Thursday,Summer,Evening,Low,4,6,169,40,81,97,218,Discharged,1
+PAT-02585,12/25/2024 18:59,Wednesday,Winter,Evening,Medium,4,2,119,27,30,70,127,Left Without Being Seen,1
+PAT-02586,9/30/2024 21:40,Monday,Fall,Late Morning,Low,5,6,162,26,38,88,152,Discharged,1
+PAT-02587,9/22/2024 5:30,Sunday,Fall,Late Morning,Critical,1,5,131,1,1,3,5,Discharged,5
+PAT-02589,1/16/2024 5:30,Tuesday,Winter,Evening,High,4,9,72,7,19,46,72,Discharged,2
+PAT-02595,10/22/2024 5:00,Tuesday,Fall,Night,Medium,3,8,176,7,20,45,72,Admitted,2
+PAT-02598,3/27/2024 17:30,Wednesday,Spring,Late Morning,Critical,2,3,80,1,3,13,17,Discharged,5
+PAT-02599,8/25/2024 4:06,Sunday,Summer,Afternoon,Medium,3,2,145,13,18,29,60,Admitted,3
+PAT-02600,7/16/2024 14:40,Tuesday,Summer,Afternoon,Low,4,4,85,31,87,80,198,Discharged,1
+PAT-02601,4/13/2024 9:28,Saturday,Spring,Early Morning,High,4,4,65,4,5,13,22,Discharged,4
+PAT-02605,5/17/2024 13:55,Friday,Spring,Evening,High,4,8,60,10,12,31,53,Admitted,4
+PAT-02607,1/9/2024 1:55,Tuesday,Winter,Evening,High,3,8,171,6,10,24,40,Admitted,4
+PAT-02615,3/26/2024 13:15,Tuesday,Spring,Late Morning,Critical,2,2,72,1,1,6,8,Discharged,4
+PAT-02624,5/20/2024 18:39,Monday,Spring,Afternoon,Critical,2,6,63,3,8,10,21,Discharged,4
+PAT-02625,10/11/2024 20:21,Friday,Fall,Evening,Critical,2,8,66,4,4,7,15,Discharged,5
+PAT-02629,5/4/2024 12:03,Saturday,Spring,Evening,High,4,8,196,6,13,33,52,Discharged,4
+PAT-02636,4/23/2024 22:49,Tuesday,Spring,Night,Medium,3,1,130,8,19,23,50,Discharged,3
+PAT-02637,11/19/2024 7:09,Tuesday,Fall,Night,Critical,2,3,78,3,5,15,23,Admitted,5
+PAT-02661,1/6/2024 17:10,Saturday,Winter,Evening,High,3,4,56,10,14,34,58,Admitted,3
+PAT-02664,10/13/2024 8:58,Sunday,Fall,Afternoon,Medium,4,2,160,11,24,23,58,Discharged,3
+PAT-02666,2/7/2024 2:07,Wednesday,Winter,Night,High,3,10,159,5,7,15,27,Admitted,4
+PAT-02673,9/3/2024 0:18,Tuesday,Fall,Afternoon,Medium,4,3,97,10,30,38,78,Admitted,2
+PAT-02676,12/11/2024 16:47,Wednesday,Winter,Afternoon,Low,4,5,169,40,50,81,171,Discharged,1
+PAT-02681,2/3/2024 0:40,Saturday,Winter,Afternoon,High,4,9,129,4,16,36,56,Admitted,3
+PAT-02684,8/26/2024 19:59,Monday,Summer,Afternoon,Medium,3,1,78,17,21,57,95,Discharged,2
+PAT-02698,7/12/2024 11:08,Friday,Summer,Afternoon,Critical,2,3,92,3,5,13,21,Discharged,4
+PAT-02718,5/19/2024 14:38,Sunday,Spring,Evening,Critical,1,9,163,1,3,7,11,Admitted,5
+PAT-02725,1/29/2024 10:51,Monday,Winter,Night,High,4,6,76,6,13,49,68,Admitted,3
+PAT-02733,2/3/2024 3:33,Saturday,Winter,Night,Low,5,5,145,18,63,88,169,Discharged,1
+PAT-02742,12/11/2024 20:53,Wednesday,Winter,Night,High,4,6,71,8,18,48,74,Discharged,2
+PAT-02744,2/15/2024 0:59,Thursday,Winter,Early Morning,Critical,1,2,174,0,3,7,10,Discharged,4
+PAT-02750,6/18/2024 21:57,Tuesday,Summer,Evening,Critical,1,3,71,3,6,14,23,Discharged,4
+PAT-02759,9/2/2024 15:48,Monday,Fall,Early Morning,Medium,3,10,138,5,9,31,45,Discharged,4
+PAT-02760,11/24/2024 12:34,Sunday,Fall,Evening,High,3,4,59,4,7,14,25,Discharged,4
+PAT-02765,3/4/2024 10:14,Monday,Spring,Afternoon,Critical,2,1,186,1,5,14,20,Admitted,5
+PAT-02767,1/14/2024 13:52,Sunday,Winter,Evening,Medium,4,4,175,18,18,71,107,Admitted,2
+PAT-02776,7/13/2024 19:40,Saturday,Summer,Night,Low,5,2,183,15,56,93,164,Discharged,1
+PAT-02778,9/24/2024 22:09,Tuesday,Fall,Late Morning,Critical,2,4,52,2,4,11,17,Discharged,5
+PAT-02788,6/1/2024 9:44,Saturday,Summer,Afternoon,Low,5,8,101,16,39,112,167,Discharged,1
+PAT-02792,4/24/2024 10:34,Wednesday,Spring,Early Morning,High,3,5,78,3,3,15,21,Admitted,5
+PAT-02803,4/17/2024 9:57,Wednesday,Spring,Evening,Critical,2,1,163,2,5,18,25,Admitted,4
+PAT-02817,9/23/2024 16:36,Monday,Fall,Afternoon,Medium,3,8,124,13,36,30,79,Admitted,2
+PAT-02821,4/29/2024 1:48,Monday,Spring,Night,Medium,4,9,135,20,32,57,109,Admitted,1
+PAT-02822,11/15/2024 10:05,Friday,Fall,Late Morning,Low,5,6,91,12,24,59,95,Discharged,1
+PAT-02824,4/6/2024 2:41,Saturday,Spring,Evening,Medium,3,10,119,10,21,39,70,Admitted,2
+PAT-02828,4/25/2024 6:19,Thursday,Spring,Early Morning,Low,4,6,123,13,41,65,119,Discharged,1
+PAT-02835,10/11/2024 5:09,Friday,Fall,Afternoon,Critical,1,3,83,2,4,7,13,Discharged,5
+PAT-02836,4/16/2024 20:14,Tuesday,Spring,Evening,High,4,1,98,7,12,39,58,Admitted,3
+PAT-02837,7/23/2024 6:45,Tuesday,Summer,Afternoon,Low,4,5,96,29,83,108,220,Discharged,1
+PAT-02847,10/12/2024 18:17,Saturday,Fall,Late Morning,Medium,4,10,181,12,17,21,50,Discharged,4
+PAT-02862,9/6/2024 0:39,Friday,Fall,Afternoon,High,4,4,54,6,6,28,40,Admitted,3
+PAT-02869,3/30/2024 10:26,Saturday,Spring,Afternoon,Low,4,2,145,16,45,89,150,Discharged,1
+PAT-02876,9/2/2024 20:18,Monday,Fall,Afternoon,High,3,5,131,7,10,15,32,Discharged,4
+PAT-02879,4/16/2024 13:57,Tuesday,Spring,Afternoon,Critical,2,10,62,3,6,17,26,Admitted,4
+PAT-02881,12/3/2024 10:45,Tuesday,Winter,Evening,High,3,4,82,6,21,21,48,Discharged,3
+PAT-02888,2/28/2024 6:27,Wednesday,Winter,Afternoon,Critical,1,8,67,2,5,12,19,Admitted,4
+PAT-02889,7/3/2024 6:55,Wednesday,Summer,Afternoon,Low,5,5,163,21,51,100,172,Left Without Being Seen,1
+PAT-02896,5/26/2024 17:22,Sunday,Spring,Late Morning,Low,5,1,130,17,31,42,90,Admitted,2
+PAT-02901,4/14/2024 0:45,Sunday,Spring,Late Morning,Medium,4,1,52,6,13,22,41,Admitted,3
+PAT-02905,5/28/2024 11:21,Tuesday,Spring,Late Morning,High,3,4,126,4,6,23,33,Admitted,4
+PAT-02907,7/8/2024 13:59,Monday,Summer,Evening,High,4,8,195,13,21,43,77,Discharged,2
+PAT-02909,6/14/2024 23:50,Friday,Summer,Afternoon,High,4,5,83,10,10,28,48,Discharged,4
+PAT-02913,4/3/2024 7:36,Wednesday,Spring,Evening,Medium,4,9,53,11,29,41,81,Admitted,2
+PAT-02918,7/30/2024 5:51,Tuesday,Summer,Evening,Low,5,5,68,36,84,123,243,Discharged,1
+PAT-02925,3/21/2024 22:23,Thursday,Spring,Evening,Low,5,7,129,32,59,97,188,Left Without Being Seen,1
+PAT-02938,2/16/2024 12:28,Friday,Winter,Afternoon,High,3,8,61,8,12,40,60,Discharged,3
+PAT-02944,7/20/2024 14:42,Saturday,Summer,Evening,Critical,2,4,101,3,6,18,27,Discharged,5
+PAT-02948,12/13/2024 20:33,Friday,Winter,Night,Low,5,9,146,26,77,115,218,Discharged,1
+PAT-02949,11/17/2024 14:26,Sunday,Fall,Late Morning,Medium,3,10,151,6,9,19,34,Discharged,4
+PAT-02950,4/21/2024 6:17,Sunday,Spring,Afternoon,Medium,3,5,66,14,22,42,78,Discharged,2
+PAT-02956,3/15/2024 10:33,Friday,Spring,Night,Medium,4,1,165,12,32,68,112,Admitted,1
+PAT-02962,4/15/2024 12:50,Monday,Spring,Afternoon,Critical,1,9,192,3,2,12,17,Admitted,4
+PAT-02968,1/13/2024 11:23,Saturday,Winter,Evening,Critical,2,5,176,5,8,10,23,Admitted,4
+PAT-02971,9/14/2024 8:42,Saturday,Fall,Late Morning,Low,4,7,76,20,41,51,112,Admitted,2
+PAT-02977,5/27/2024 9:14,Monday,Spring,Evening,High,3,6,94,5,12,38,55,Discharged,3
+PAT-02978,5/25/2024 4:33,Saturday,Spring,Evening,Medium,4,4,54,14,26,41,81,Admitted,3
+PAT-02987,9/20/2024 8:21,Friday,Fall,Night,Critical,2,9,166,3,3,10,16,Admitted,4
+PAT-02996,6/5/2024 9:19,Wednesday,Summer,Afternoon,Low,5,4,70,28,62,99,189,Discharged,1
+PAT-03009,6/8/2024 0:06,Saturday,Summer,Evening,Critical,1,3,81,3,6,15,24,Discharged,4
+PAT-03011,8/11/2024 19:18,Sunday,Summer,Evening,Low,5,10,61,16,32,97,145,Left Without Being Seen,1
+PAT-03017,1/20/2024 5:08,Saturday,Winter,Afternoon,Medium,3,2,51,13,19,74,106,Admitted,2
+PAT-03018,1/5/2024 13:51,Friday,Winter,Evening,Medium,3,8,131,35,30,74,139,Left Without Being Seen,1
+PAT-03020,7/14/2024 18:53,Sunday,Summer,Afternoon,Critical,2,6,74,1,2,7,10,Discharged,5
+PAT-03024,12/4/2024 2:32,Wednesday,Winter,Afternoon,High,3,3,188,6,8,21,35,Admitted,4
+PAT-03031,2/13/2024 21:32,Tuesday,Winter,Evening,Low,5,1,180,33,50,112,195,Discharged,1
+PAT-03034,9/5/2024 7:42,Thursday,Fall,Late Morning,Medium,3,8,87,13,13,27,53,Admitted,3
+PAT-03035,2/19/2024 21:21,Monday,Winter,Early Morning,Critical,2,5,173,4,3,21,28,Discharged,4
+PAT-03036,1/12/2024 14:16,Friday,Winter,Early Morning,Low,4,9,65,28,57,64,149,Discharged,1
+PAT-03038,11/8/2024 23:49,Friday,Fall,Evening,Low,4,1,137,33,49,120,202,Discharged,1
+PAT-03055,10/16/2024 12:12,Wednesday,Fall,Afternoon,Medium,3,7,171,6,22,35,63,Discharged,3
+PAT-03058,5/7/2024 22:19,Tuesday,Spring,Evening,Critical,1,3,103,3,5,6,14,Discharged,5
+PAT-03061,12/2/2024 22:04,Monday,Winter,Evening,Medium,3,3,177,38,59,148,245,Discharged,1
+PAT-03074,2/11/2024 8:29,Sunday,Winter,Afternoon,Critical,1,1,88,2,3,5,10,Discharged,4
+PAT-03078,7/10/2024 8:17,Wednesday,Summer,Afternoon,Critical,2,4,83,2,5,18,25,Admitted,5
+PAT-03079,2/10/2024 15:05,Saturday,Winter,Early Morning,High,4,2,190,4,5,21,30,Discharged,4
+PAT-03083,5/8/2024 6:50,Wednesday,Spring,Evening,High,3,5,199,5,9,23,37,Discharged,4
+PAT-03085,4/18/2024 4:15,Thursday,Spring,Afternoon,Medium,3,10,126,15,11,23,49,Admitted,3
+PAT-03090,1/3/2024 22:41,Wednesday,Winter,Late Morning,Low,5,10,100,30,55,82,167,Discharged,1
+PAT-03093,5/6/2024 10:50,Monday,Spring,Early Morning,Critical,1,4,112,0,1,4,5,Admitted,5
+PAT-03096,5/15/2024 15:02,Wednesday,Spring,Evening,Critical,1,6,120,2,5,11,18,Discharged,4
+PAT-03110,7/29/2024 13:24,Monday,Summer,Afternoon,High,4,1,136,6,15,44,65,Admitted,2
+PAT-03125,1/19/2024 6:57,Friday,Winter,Afternoon,Critical,2,2,131,1,6,20,27,Admitted,4
+PAT-03136,4/27/2024 11:20,Saturday,Spring,Evening,High,3,9,176,7,10,23,40,Discharged,3
+PAT-03137,3/23/2024 4:46,Saturday,Spring,Night,Medium,4,10,50,9,27,30,66,Discharged,3
+PAT-03148,7/17/2024 16:34,Wednesday,Summer,Early Morning,Critical,1,7,108,1,4,12,17,Discharged,4
+PAT-03152,2/5/2024 10:14,Monday,Winter,Night,Low,4,9,114,28,91,127,246,Discharged,1
+PAT-03162,9/9/2024 18:54,Monday,Fall,Evening,Medium,4,6,91,21,39,63,123,Left Without Being Seen,1
+PAT-03165,5/12/2024 1:26,Sunday,Spring,Afternoon,Low,5,3,52,12,41,82,135,Discharged,1
+PAT-03168,11/13/2024 1:41,Wednesday,Fall,Evening,High,3,3,63,5,12,28,45,Discharged,4
+PAT-03171,7/19/2024 16:12,Friday,Summer,Afternoon,Critical,1,1,131,3,3,13,19,Admitted,4
+PAT-03177,2/24/2024 14:20,Saturday,Winter,Evening,Medium,3,10,172,24,30,37,91,Admitted,2
+PAT-03180,10/22/2024 18:45,Tuesday,Fall,Afternoon,Low,5,2,142,24,62,56,142,Discharged,1
+PAT-03187,8/2/2024 4:09,Friday,Summer,Evening,High,4,5,199,10,15,45,70,Discharged,3
+PAT-03192,8/18/2024 0:03,Sunday,Summer,Evening,Medium,3,5,176,15,27,69,111,Admitted,1
+PAT-03197,10/21/2024 6:38,Monday,Fall,Night,Critical,1,6,163,2,2,8,12,Admitted,4
+PAT-03204,11/30/2024 3:58,Saturday,Fall,Evening,Medium,4,7,77,14,22,41,77,Admitted,3
+PAT-03209,10/4/2024 7:12,Friday,Fall,Late Morning,Medium,3,9,76,9,16,26,51,Admitted,3
+PAT-03210,9/10/2024 6:45,Tuesday,Fall,Early Morning,High,4,7,104,3,7,16,26,Discharged,5
+PAT-03211,9/3/2024 15:55,Tuesday,Fall,Night,High,4,8,144,5,6,11,22,Discharged,5
+PAT-03213,8/19/2024 20:54,Monday,Summer,Afternoon,High,4,4,129,11,11,23,45,Admitted,4
+PAT-03215,3/5/2024 16:04,Tuesday,Spring,Night,High,4,6,59,5,10,22,37,Discharged,4
+PAT-03217,9/28/2024 4:23,Saturday,Fall,Afternoon,Low,5,4,155,12,41,58,111,Admitted,1
+PAT-03221,9/20/2024 22:34,Friday,Fall,Evening,High,3,5,165,4,9,30,43,Admitted,4
+PAT-03229,1/1/2024 22:52,Monday,Winter,Evening,Critical,2,7,69,5,5,39,49,Admitted,4
+PAT-03239,8/24/2024 22:08,Saturday,Summer,Evening,Critical,1,3,167,2,5,11,18,Admitted,4
+PAT-03241,12/15/2024 2:13,Sunday,Winter,Afternoon,Critical,2,6,128,2,2,8,12,Discharged,5
+PAT-03244,4/4/2024 21:39,Thursday,Spring,Early Morning,High,4,10,59,4,9,23,36,Discharged,3
+PAT-03249,2/22/2024 22:02,Thursday,Winter,Afternoon,Critical,1,2,110,2,4,13,19,Discharged,5
+PAT-03262,6/19/2024 1:09,Wednesday,Summer,Night,High,4,9,65,6,9,27,42,Admitted,4
+PAT-03263,10/16/2024 17:24,Wednesday,Fall,Evening,High,3,1,87,5,11,23,39,Discharged,4
+PAT-03264,3/9/2024 2:09,Saturday,Spring,Evening,Medium,4,1,198,15,24,54,93,Discharged,2
+PAT-03269,3/22/2024 2:21,Friday,Spring,Early Morning,High,3,4,126,2,8,17,27,Admitted,4
+PAT-03273,3/7/2024 19:45,Thursday,Spring,Late Morning,Low,5,10,185,19,35,49,103,Admitted,2
+PAT-03275,5/28/2024 19:20,Tuesday,Spring,Early Morning,Critical,2,10,130,1,3,5,9,Admitted,4
+PAT-03282,2/24/2024 14:51,Saturday,Winter,Late Morning,Low,5,5,127,27,50,100,177,Discharged,1
+PAT-03286,11/25/2024 11:06,Monday,Fall,Afternoon,High,4,10,80,6,12,34,52,Discharged,3
+PAT-03294,6/15/2024 16:27,Saturday,Summer,Early Morning,Low,4,8,111,13,41,50,104,Discharged,2
+PAT-03295,3/28/2024 21:44,Thursday,Spring,Early Morning,Critical,1,9,116,1,3,5,9,Discharged,5
+PAT-03304,9/17/2024 14:36,Tuesday,Fall,Night,Critical,2,2,142,3,2,8,13,Admitted,4
+PAT-03305,2/28/2024 21:59,Wednesday,Winter,Afternoon,Medium,4,1,113,10,20,54,84,Discharged,3
+PAT-03306,9/3/2024 0:40,Tuesday,Fall,Evening,Medium,4,2,98,26,42,38,106,Discharged,1
+PAT-03311,5/17/2024 21:03,Friday,Spring,Afternoon,Low,5,6,173,21,56,112,189,Discharged,1
+PAT-03313,2/11/2024 17:36,Sunday,Winter,Afternoon,Low,4,2,125,32,50,78,160,Discharged,1
+PAT-03314,9/14/2024 11:30,Saturday,Fall,Late Morning,Low,5,8,149,19,48,67,134,Discharged,1
+PAT-03315,8/11/2024 21:14,Sunday,Summer,Evening,High,4,9,157,4,7,17,28,Admitted,4
+PAT-03317,12/4/2024 19:40,Wednesday,Winter,Night,High,3,8,151,6,12,24,42,Discharged,3
+PAT-03318,10/17/2024 6:47,Thursday,Fall,Evening,Critical,1,9,87,3,4,5,12,Admitted,4
+PAT-03320,1/6/2024 22:49,Saturday,Winter,Afternoon,High,4,3,153,6,9,24,39,Discharged,4
+PAT-03328,7/22/2024 0:59,Monday,Summer,Afternoon,Critical,2,10,185,1,9,21,31,Admitted,4
+PAT-03343,12/27/2024 2:39,Friday,Winter,Afternoon,Medium,3,6,99,30,30,100,160,Left Without Being Seen,1
+PAT-03362,3/4/2024 9:42,Monday,Spring,Night,Critical,1,8,107,1,4,8,13,Discharged,4
+PAT-03369,2/6/2024 8:36,Tuesday,Winter,Early Morning,High,4,7,54,4,8,18,30,Admitted,4
+PAT-03375,4/14/2024 23:00,Sunday,Spring,Early Morning,Low,5,8,197,13,31,44,88,Discharged,2
+PAT-03377,3/3/2024 4:45,Sunday,Spring,Late Morning,Medium,4,6,127,10,14,49,73,Discharged,3
+PAT-03382,12/16/2024 9:15,Monday,Winter,Afternoon,Low,5,3,104,45,133,198,376,Left Without Being Seen,1
+PAT-03389,7/27/2024 21:37,Saturday,Summer,Afternoon,Low,5,4,99,24,73,97,194,Discharged,1
+PAT-03393,7/25/2024 2:32,Thursday,Summer,Evening,Low,5,1,75,38,108,149,295,Discharged,1
+PAT-03396,1/16/2024 23:09,Tuesday,Winter,Afternoon,Critical,2,2,136,3,5,20,28,Discharged,4
+PAT-03400,12/17/2024 18:19,Tuesday,Winter,Late Morning,Medium,3,10,186,8,26,60,94,Admitted,2
+PAT-03407,4/27/2024 8:44,Saturday,Spring,Afternoon,Medium,4,7,100,13,29,29,71,Admitted,2
+PAT-03408,11/24/2024 6:30,Sunday,Fall,Night,Low,5,3,119,11,30,50,91,Admitted,2
+PAT-03410,7/15/2024 2:10,Monday,Summer,Night,Medium,4,4,100,24,47,91,162,Discharged,1
+PAT-03414,9/28/2024 9:09,Saturday,Fall,Afternoon,Medium,4,1,123,12,17,30,59,Admitted,3
+PAT-03419,2/18/2024 9:05,Sunday,Winter,Early Morning,Medium,4,1,89,9,18,22,49,Discharged,3
+PAT-03420,10/4/2024 9:42,Friday,Fall,Afternoon,Low,5,3,72,18,66,87,171,Left Without Being Seen,1
+PAT-03421,10/14/2024 22:11,Monday,Fall,Night,High,4,5,151,4,15,25,44,Admitted,3
+PAT-03437,6/5/2024 4:42,Wednesday,Summer,Early Morning,Medium,3,9,77,9,17,23,49,Discharged,3
+PAT-03442,1/8/2024 1:58,Monday,Winter,Afternoon,Medium,4,10,182,31,66,98,195,Left Without Being Seen,1
+PAT-03445,3/25/2024 11:56,Monday,Spring,Evening,Critical,1,1,79,4,7,8,19,Discharged,5
+PAT-03451,7/1/2024 12:04,Monday,Summer,Afternoon,High,4,10,165,9,13,34,56,Discharged,3
+PAT-03456,7/13/2024 16:37,Saturday,Summer,Early Morning,Critical,1,9,111,1,1,9,11,Discharged,5
+PAT-03458,5/29/2024 1:01,Wednesday,Spring,Evening,Medium,3,10,71,15,25,51,91,Discharged,2
+PAT-03462,8/12/2024 16:30,Monday,Summer,Evening,Critical,2,9,200,4,4,16,24,Discharged,4
+PAT-03468,4/13/2024 12:50,Saturday,Spring,Afternoon,High,4,8,190,5,13,16,34,Admitted,4
+PAT-03474,12/26/2024 11:27,Thursday,Winter,Evening,Low,4,3,74,31,107,162,300,Discharged,1
+PAT-03478,7/24/2024 15:37,Wednesday,Summer,Evening,Critical,2,5,153,1,3,21,25,Admitted,4
+PAT-03481,3/21/2024 12:26,Thursday,Spring,Early Morning,Low,4,2,175,18,20,43,81,Admitted,2
+PAT-03487,10/28/2024 14:03,Monday,Fall,Afternoon,Critical,1,1,163,2,2,17,21,Discharged,4
+PAT-03494,12/15/2024 13:51,Sunday,Winter,Afternoon,High,4,9,183,5,16,25,46,Discharged,3
+PAT-03496,7/3/2024 19:38,Wednesday,Summer,Evening,High,4,5,154,6,15,35,56,Discharged,3
+PAT-03498,2/7/2024 5:15,Wednesday,Winter,Evening,Low,4,4,134,26,115,134,275,Discharged,1
+PAT-03501,9/22/2024 13:43,Sunday,Fall,Evening,Critical,1,8,161,2,1,7,10,Admitted,5
+PAT-03508,4/4/2024 22:56,Thursday,Spring,Early Morning,Low,5,4,155,12,24,62,98,Discharged,2
+PAT-03509,2/27/2024 9:26,Tuesday,Winter,Late Morning,Low,4,4,128,29,35,83,147,Discharged,1
+PAT-03514,6/26/2024 19:05,Wednesday,Summer,Afternoon,Critical,2,6,80,1,4,19,24,Admitted,4
+PAT-03515,12/12/2024 18:39,Thursday,Winter,Night,Critical,1,8,150,3,3,17,23,Admitted,4
+PAT-03519,5/30/2024 3:18,Thursday,Spring,Early Morning,Low,4,5,183,20,23,63,106,Discharged,1
+PAT-03521,8/26/2024 0:16,Monday,Summer,Afternoon,Critical,2,1,55,3,7,21,31,Discharged,4
+PAT-03524,8/11/2024 1:40,Sunday,Summer,Evening,Critical,2,4,131,4,2,18,24,Discharged,5
+PAT-03528,10/8/2024 5:45,Tuesday,Fall,Evening,Medium,4,2,56,7,35,47,89,Admitted,2
+PAT-03531,10/2/2024 8:04,Wednesday,Fall,Afternoon,Low,4,6,62,18,60,85,163,Discharged,1
+PAT-03535,12/30/2024 3:46,Monday,Winter,Night,High,3,3,164,7,11,36,54,Admitted,3
+PAT-03537,2/26/2024 6:56,Monday,Winter,Afternoon,Critical,1,2,85,3,8,8,19,Discharged,5
+PAT-03542,1/8/2024 23:52,Monday,Winter,Evening,High,3,7,196,10,17,32,59,Discharged,3
+PAT-03545,7/9/2024 3:12,Tuesday,Summer,Evening,High,3,10,70,7,18,27,52,Discharged,3
+PAT-03549,10/15/2024 10:39,Tuesday,Fall,Night,Medium,3,9,81,9,23,24,56,Discharged,3
+PAT-03556,3/19/2024 10:48,Tuesday,Spring,Afternoon,High,3,9,50,6,12,23,41,Discharged,3
+PAT-03558,5/6/2024 12:22,Monday,Spring,Early Morning,High,3,9,90,4,6,19,29,Admitted,4
+PAT-03569,12/30/2024 6:26,Monday,Winter,Afternoon,Low,4,7,187,33,76,114,223,Discharged,1
+PAT-03573,11/22/2024 16:33,Friday,Fall,Afternoon,High,4,4,60,4,11,15,30,Discharged,4
+PAT-03574,4/18/2024 12:57,Thursday,Spring,Night,Medium,3,5,80,6,26,38,70,Discharged,3
+PAT-03580,6/10/2024 18:29,Monday,Summer,Evening,Medium,3,4,170,31,43,72,146,Discharged,1
+PAT-03589,5/25/2024 17:58,Saturday,Spring,Afternoon,Critical,2,1,57,0,4,11,15,Discharged,5
+PAT-03591,9/26/2024 3:31,Thursday,Fall,Early Morning,High,3,4,183,3,7,8,18,Admitted,5
+PAT-03595,2/6/2024 3:39,Tuesday,Winter,Night,Critical,2,2,148,3,3,11,17,Admitted,5
+PAT-03597,5/15/2024 8:24,Wednesday,Spring,Evening,Medium,3,6,134,9,36,57,102,Discharged,2
+PAT-03602,4/17/2024 13:26,Wednesday,Spring,Afternoon,Medium,3,1,145,12,26,47,85,Discharged,2
+PAT-03623,6/24/2024 22:30,Monday,Summer,Evening,Low,5,1,84,52,113,142,307,Discharged,1
+PAT-03624,3/18/2024 16:28,Monday,Spring,Late Morning,Medium,4,2,174,10,30,57,97,Admitted,2
+PAT-03628,1/31/2024 19:40,Wednesday,Winter,Afternoon,Critical,2,9,175,5,6,16,27,Admitted,4
+PAT-03630,6/10/2024 8:12,Monday,Summer,Late Morning,Medium,3,1,119,11,35,56,102,Admitted,1
+PAT-03634,11/19/2024 1:24,Tuesday,Fall,Evening,High,4,4,133,6,11,26,43,Admitted,3
+PAT-03635,10/4/2024 11:30,Friday,Fall,Evening,High,3,1,134,4,9,34,47,Admitted,3
+PAT-03638,2/23/2024 1:14,Friday,Winter,Late Morning,High,3,5,66,4,14,24,42,Discharged,3
+PAT-03642,2/15/2024 18:59,Thursday,Winter,Evening,Critical,2,3,171,2,4,26,32,Admitted,4
+PAT-03644,5/15/2024 13:02,Wednesday,Spring,Evening,Critical,1,9,95,1,3,13,17,Admitted,5
+PAT-03650,1/9/2024 23:34,Tuesday,Winter,Evening,High,3,4,195,10,20,20,50,Discharged,4
+PAT-03651,6/29/2024 19:00,Saturday,Summer,Evening,High,4,5,148,10,16,24,50,Discharged,3
+PAT-03655,1/22/2024 7:32,Monday,Winter,Afternoon,High,4,1,70,8,16,51,75,Admitted,2
+PAT-03656,8/12/2024 20:09,Monday,Summer,Afternoon,Medium,4,1,148,16,25,107,148,Discharged,1
+PAT-03675,7/9/2024 17:38,Tuesday,Summer,Evening,Critical,1,3,86,4,4,17,25,Discharged,4
+PAT-03677,10/1/2024 9:26,Tuesday,Fall,Evening,Low,5,4,184,33,64,72,169,Left Without Being Seen,1
+PAT-03686,4/15/2024 18:16,Monday,Spring,Evening,High,3,5,54,10,21,38,69,Discharged,2
+PAT-03688,2/18/2024 11:40,Sunday,Winter,Afternoon,Medium,4,4,199,12,32,50,94,Admitted,2
+PAT-03699,4/4/2024 3:03,Thursday,Spring,Afternoon,Medium,4,7,75,12,28,53,93,Admitted,2
+PAT-03705,3/8/2024 8:10,Friday,Spring,Night,Medium,3,7,54,15,14,54,83,Admitted,3
+PAT-03713,3/5/2024 17:13,Tuesday,Spring,Late Morning,High,3,3,103,3,8,13,24,Discharged,4
+PAT-03714,9/9/2024 0:47,Monday,Fall,Evening,Medium,4,8,162,21,43,48,112,Discharged,1
+PAT-03719,1/22/2024 8:45,Monday,Winter,Late Morning,Medium,4,3,94,24,37,72,133,Discharged,1
+PAT-03720,5/22/2024 3:11,Wednesday,Spring,Evening,Critical,1,10,103,3,3,11,17,Discharged,4
+PAT-03725,4/13/2024 12:57,Saturday,Spring,Late Morning,High,4,9,146,4,9,21,34,Discharged,4
+PAT-03726,9/8/2024 5:31,Sunday,Fall,Night,Medium,4,4,125,6,10,29,45,Admitted,3
+PAT-03733,6/27/2024 3:37,Thursday,Summer,Evening,Critical,1,2,114,1,7,12,20,Admitted,4
+PAT-03735,4/20/2024 4:54,Saturday,Spring,Afternoon,Critical,2,1,111,1,5,12,18,Admitted,4
+PAT-03736,6/13/2024 8:21,Thursday,Summer,Evening,Low,5,3,164,26,73,85,184,Discharged,1
+PAT-03737,2/6/2024 5:17,Tuesday,Winter,Night,Low,4,2,136,24,51,111,186,Left Without Being Seen,1
+PAT-03749,12/20/2024 7:12,Friday,Winter,Afternoon,High,3,6,189,5,13,24,42,Admitted,4
+PAT-03750,9/13/2024 10:34,Friday,Fall,Evening,Medium,3,6,83,15,30,70,115,Discharged,1
+PAT-03760,6/20/2024 21:28,Thursday,Summer,Afternoon,High,3,8,125,4,13,29,46,Discharged,3
+PAT-03769,2/23/2024 19:30,Friday,Winter,Afternoon,Medium,4,2,118,30,25,108,163,Left Without Being Seen,1
+PAT-03772,9/3/2024 13:40,Tuesday,Fall,Early Morning,Medium,4,10,86,4,10,24,38,Discharged,4
+PAT-03783,3/9/2024 3:14,Saturday,Spring,Afternoon,Critical,2,5,104,2,5,15,22,Admitted,4
+PAT-03788,7/6/2024 12:10,Saturday,Summer,Afternoon,High,3,10,56,6,8,24,38,Discharged,3
+PAT-03792,4/6/2024 22:52,Saturday,Spring,Night,Critical,1,6,153,2,3,6,11,Discharged,5
+PAT-03795,10/17/2024 14:55,Thursday,Fall,Evening,High,4,1,188,7,8,19,34,Admitted,4
+PAT-03796,5/14/2024 12:35,Tuesday,Spring,Evening,Critical,2,5,55,1,2,14,17,Discharged,4
+PAT-03802,11/4/2024 2:54,Monday,Fall,Evening,Medium,3,3,192,22,31,43,96,Admitted,2
+PAT-03807,8/21/2024 10:03,Wednesday,Summer,Evening,Medium,3,5,69,20,40,92,152,Discharged,1
+PAT-03814,1/19/2024 9:09,Friday,Winter,Night,Critical,2,6,67,1,3,18,22,Admitted,5
+PAT-03826,5/6/2024 21:14,Monday,Spring,Night,High,4,8,87,6,15,27,48,Discharged,3
+PAT-03831,6/2/2024 10:33,Sunday,Summer,Early Morning,High,4,7,125,4,6,10,20,Admitted,5
+PAT-03841,9/11/2024 19:08,Wednesday,Fall,Evening,Low,4,1,191,20,78,109,207,Discharged,1
+PAT-03842,1/31/2024 5:21,Wednesday,Winter,Afternoon,Critical,1,5,62,2,4,12,18,Admitted,5
+PAT-03843,5/1/2024 9:16,Wednesday,Spring,Early Morning,Low,5,9,156,18,36,55,109,Discharged,1
+PAT-03844,12/20/2024 22:03,Friday,Winter,Evening,Critical,2,1,180,7,4,32,43,Discharged,4
+PAT-03845,1/17/2024 20:53,Wednesday,Winter,Afternoon,Medium,3,9,190,16,28,62,106,Admitted,1
+PAT-03849,2/20/2024 22:04,Tuesday,Winter,Early Morning,Critical,2,5,90,1,2,14,17,Admitted,5
+PAT-03854,9/10/2024 19:27,Tuesday,Fall,Late Morning,Low,5,3,162,11,41,47,99,Admitted,1
+PAT-03859,6/30/2024 13:43,Sunday,Summer,Late Morning,High,3,4,141,3,7,9,19,Admitted,5
+PAT-03860,1/8/2024 5:06,Monday,Winter,Late Morning,Critical,1,7,125,4,7,13,24,Admitted,4
+PAT-03861,10/30/2024 12:44,Wednesday,Fall,Evening,High,4,4,84,8,12,38,58,Admitted,3
+PAT-03863,3/11/2024 2:28,Monday,Spring,Evening,High,3,5,94,9,9,35,53,Admitted,3
+PAT-03868,7/20/2024 12:40,Saturday,Summer,Evening,Medium,4,10,58,19,41,71,131,Discharged,1
+PAT-03882,11/16/2024 3:13,Saturday,Fall,Evening,High,3,5,60,3,9,11,23,Discharged,4
+PAT-03883,5/20/2024 4:03,Monday,Spring,Late Morning,Medium,4,6,121,13,39,81,133,Discharged,1
+PAT-03896,4/25/2024 19:46,Thursday,Spring,Afternoon,Low,4,3,83,18,76,67,161,Discharged,1
+PAT-03900,11/23/2024 11:10,Saturday,Fall,Afternoon,Medium,4,2,73,15,24,53,92,Admitted,2
+PAT-03901,4/8/2024 22:52,Monday,Spring,Afternoon,Critical,1,4,142,4,6,8,18,Discharged,5
+PAT-03905,2/15/2024 11:29,Thursday,Winter,Afternoon,Medium,4,5,197,30,39,103,172,Discharged,1
+PAT-03909,11/7/2024 10:28,Thursday,Fall,Evening,Medium,3,10,126,13,16,48,77,Admitted,3
+PAT-03911,6/22/2024 0:36,Saturday,Summer,Evening,Critical,1,3,135,3,5,11,19,Admitted,5
+PAT-03913,1/20/2024 18:07,Saturday,Winter,Evening,Medium,4,10,185,27,29,73,129,Left Without Being Seen,1
+PAT-03920,8/11/2024 7:25,Sunday,Summer,Evening,Low,5,8,78,31,54,107,192,Discharged,1
+PAT-03925,10/26/2024 1:56,Saturday,Fall,Afternoon,High,4,10,188,4,6,20,30,Admitted,4
+PAT-03931,4/25/2024 12:51,Thursday,Spring,Night,Low,5,7,162,18,35,87,140,Discharged,1
+PAT-03933,10/9/2024 1:31,Wednesday,Fall,Evening,Medium,4,6,113,18,16,34,68,Admitted,3
+PAT-03935,6/12/2024 21:41,Wednesday,Summer,Evening,Critical,2,1,120,3,9,12,24,Discharged,4
+PAT-03947,2/16/2024 20:49,Friday,Winter,Evening,High,3,5,115,10,12,20,42,Discharged,4
+PAT-03950,11/8/2024 11:00,Friday,Fall,Evening,Critical,1,1,164,2,3,17,22,Discharged,4
+PAT-03961,1/25/2024 21:17,Thursday,Winter,Evening,Critical,1,10,114,3,6,11,20,Admitted,4
+PAT-03969,11/9/2024 12:29,Saturday,Fall,Afternoon,Low,5,8,179,14,44,49,107,Discharged,1
+PAT-03978,12/27/2024 4:32,Friday,Winter,Early Morning,Critical,2,10,147,3,3,9,15,Discharged,5
+PAT-03982,7/16/2024 12:24,Tuesday,Summer,Late Morning,Medium,3,1,100,17,19,46,82,Admitted,2
+PAT-03983,10/13/2024 22:23,Sunday,Fall,Afternoon,Low,5,9,116,20,47,74,141,Discharged,1
+PAT-03990,8/26/2024 15:31,Monday,Summer,Afternoon,High,3,6,178,8,14,42,64,Discharged,3
+PAT-04002,11/24/2024 18:38,Sunday,Fall,Late Morning,High,4,8,79,2,6,11,19,Admitted,4
+PAT-04011,4/15/2024 16:07,Monday,Spring,Late Morning,Critical,2,2,120,2,3,12,17,Discharged,4
+PAT-04014,10/28/2024 23:42,Monday,Fall,Evening,Critical,1,2,149,4,2,6,12,Admitted,5
+PAT-04016,12/30/2024 1:15,Monday,Winter,Afternoon,High,3,9,177,11,17,44,72,Discharged,3
+PAT-04019,1/9/2024 2:34,Tuesday,Winter,Early Morning,Critical,1,9,86,0,4,12,16,Admitted,4
+PAT-04020,8/1/2024 4:22,Thursday,Summer,Evening,Low,5,10,181,35,68,124,227,Discharged,1
+PAT-04021,12/26/2024 22:20,Thursday,Winter,Evening,High,4,3,139,11,23,42,76,Admitted,2
+PAT-04022,3/15/2024 6:44,Friday,Spring,Evening,Critical,1,10,132,1,7,14,22,Admitted,5
+PAT-04024,12/13/2024 18:36,Friday,Winter,Evening,Medium,3,1,138,15,27,82,124,Left Without Being Seen,1
+PAT-04039,6/12/2024 5:01,Wednesday,Summer,Early Morning,Medium,4,5,79,6,14,38,58,Discharged,3
+PAT-04041,5/6/2024 22:19,Monday,Spring,Afternoon,Medium,3,6,108,13,31,48,92,Discharged,2
+PAT-04042,6/26/2024 7:12,Wednesday,Summer,Evening,Critical,1,10,150,1,4,17,22,Admitted,5
+PAT-04048,9/24/2024 18:12,Tuesday,Fall,Evening,Critical,1,9,75,1,2,6,9,Admitted,5
+PAT-04051,5/10/2024 21:52,Friday,Spring,Evening,Low,4,10,158,23,57,123,203,Discharged,1
+PAT-04060,9/15/2024 14:47,Sunday,Fall,Early Morning,High,4,4,184,3,3,11,17,Admitted,4
+PAT-04066,9/18/2024 19:02,Wednesday,Fall,Evening,Medium,3,1,153,18,24,69,111,Admitted,1
+PAT-04067,7/28/2024 20:14,Sunday,Summer,Night,Low,4,10,146,19,41,62,122,Discharged,1
+PAT-04071,11/22/2024 10:22,Friday,Fall,Evening,High,3,1,76,4,8,26,38,Discharged,4
+PAT-04073,8/26/2024 13:13,Monday,Summer,Late Morning,Critical,2,8,59,4,7,16,27,Admitted,4
+PAT-04076,7/30/2024 0:09,Tuesday,Summer,Evening,Critical,1,5,166,4,7,7,18,Admitted,5
+PAT-04078,1/14/2024 19:43,Sunday,Winter,Afternoon,Low,4,1,82,24,35,84,143,Discharged,1
+PAT-04079,6/13/2024 16:31,Thursday,Summer,Late Morning,High,4,6,121,3,10,15,28,Discharged,4
+PAT-04085,5/4/2024 6:55,Saturday,Spring,Early Morning,High,3,8,104,3,3,12,18,Discharged,4
+PAT-04091,3/18/2024 18:11,Monday,Spring,Night,Medium,3,3,71,11,32,58,101,Admitted,2
+PAT-04099,12/20/2024 23:43,Friday,Winter,Evening,High,4,2,127,8,20,52,80,Discharged,2
+PAT-04107,7/31/2024 20:27,Wednesday,Summer,Afternoon,Low,4,8,138,33,76,111,220,Discharged,1
+PAT-04110,11/11/2024 19:21,Monday,Fall,Afternoon,Medium,3,10,135,17,35,32,84,Admitted,3
+PAT-04113,4/26/2024 0:13,Friday,Spring,Night,High,4,7,64,7,11,19,37,Discharged,3
+PAT-04131,8/13/2024 3:33,Tuesday,Summer,Afternoon,Medium,4,7,97,12,42,61,115,Discharged,1
+PAT-04150,4/16/2024 2:59,Tuesday,Spring,Evening,Low,5,5,182,23,38,82,143,Discharged,1
+PAT-04158,5/5/2024 5:06,Sunday,Spring,Afternoon,Low,5,4,88,23,40,57,120,Discharged,1
+PAT-04162,10/27/2024 14:12,Sunday,Fall,Evening,Low,4,5,89,17,27,60,104,Admitted,1
+PAT-04168,2/23/2024 12:39,Friday,Winter,Evening,Low,5,3,184,42,89,157,288,Discharged,1
+PAT-04169,7/3/2024 14:28,Wednesday,Summer,Early Morning,Low,5,3,58,14,26,70,110,Admitted,1
+PAT-04170,11/5/2024 15:41,Tuesday,Fall,Evening,High,4,8,137,5,15,40,60,Discharged,3
+PAT-04173,11/10/2024 1:52,Sunday,Fall,Evening,Critical,1,10,86,2,1,7,10,Discharged,5
+PAT-04186,3/1/2024 3:20,Friday,Spring,Afternoon,Critical,2,3,153,2,6,13,21,Admitted,4
+PAT-04189,3/5/2024 1:37,Tuesday,Spring,Late Morning,Medium,3,3,179,6,15,43,64,Admitted,3
+PAT-04190,7/27/2024 0:40,Saturday,Summer,Late Morning,High,3,6,170,5,5,25,35,Admitted,4
+PAT-04202,10/29/2024 9:24,Tuesday,Fall,Late Morning,High,3,4,64,4,7,19,30,Discharged,4
+PAT-04206,5/24/2024 19:49,Friday,Spring,Evening,High,3,6,164,8,12,40,60,Admitted,3
+PAT-04213,10/1/2024 19:27,Tuesday,Fall,Afternoon,High,3,3,146,4,7,14,25,Discharged,4
+PAT-04214,11/1/2024 22:01,Friday,Fall,Late Morning,Medium,3,2,172,11,17,35,63,Admitted,3
+PAT-04224,4/8/2024 23:25,Monday,Spring,Afternoon,High,3,3,167,4,10,18,32,Discharged,4
+PAT-04241,11/3/2024 19:37,Sunday,Fall,Evening,Low,5,1,107,21,35,58,114,Admitted,1
+PAT-04244,7/13/2024 16:40,Saturday,Summer,Afternoon,Medium,3,10,156,13,17,33,63,Discharged,3
+PAT-04249,3/4/2024 6:02,Monday,Spring,Night,Medium,3,9,153,13,28,64,105,Admitted,1
+PAT-04258,6/4/2024 10:35,Tuesday,Summer,Afternoon,Medium,3,2,194,18,26,54,98,Discharged,1
+PAT-04266,4/6/2024 9:09,Saturday,Spring,Early Morning,Critical,1,8,142,1,1,2,4,Admitted,5
+PAT-04275,10/1/2024 18:36,Tuesday,Fall,Evening,High,3,6,183,4,6,24,34,Admitted,4
+PAT-04277,1/27/2024 8:29,Saturday,Winter,Afternoon,Critical,2,2,176,1,6,13,20,Admitted,4
+PAT-04280,10/31/2024 4:57,Thursday,Fall,Afternoon,High,3,8,63,5,6,24,35,Admitted,4
+PAT-04283,7/27/2024 13:24,Saturday,Summer,Afternoon,Low,4,2,134,21,42,104,167,Discharged,1
+PAT-04284,7/6/2024 16:09,Saturday,Summer,Late Morning,Critical,2,6,154,3,4,5,12,Discharged,4
+PAT-04286,8/3/2024 5:58,Saturday,Summer,Early Morning,Low,5,6,112,16,48,68,132,Discharged,1
+PAT-04289,4/21/2024 3:38,Sunday,Spring,Afternoon,Medium,4,10,121,16,18,42,76,Admitted,2
+PAT-04290,9/14/2024 8:55,Saturday,Fall,Evening,Medium,4,10,197,12,36,40,88,Discharged,2
+PAT-04295,9/28/2024 1:20,Saturday,Fall,Night,Medium,3,4,165,7,19,46,72,Discharged,3
+PAT-04296,7/15/2024 10:42,Monday,Summer,Night,Medium,4,2,122,9,44,80,133,Discharged,1
+PAT-04297,8/11/2024 3:01,Sunday,Summer,Late Morning,Low,5,2,144,16,41,83,140,Discharged,1
+PAT-04298,6/30/2024 16:44,Sunday,Summer,Evening,High,4,9,142,7,9,24,40,Admitted,4
+PAT-04302,9/4/2024 22:48,Wednesday,Fall,Early Morning,Medium,3,8,176,7,12,19,38,Discharged,3
+PAT-04307,6/19/2024 21:29,Wednesday,Summer,Afternoon,Low,5,9,94,17,71,110,198,Discharged,1
+PAT-04310,7/10/2024 7:35,Wednesday,Summer,Afternoon,Critical,2,1,127,4,7,14,25,Admitted,4
+PAT-04311,11/17/2024 12:48,Sunday,Fall,Early Morning,High,4,10,162,3,3,8,14,Discharged,4
+PAT-04317,6/29/2024 18:43,Saturday,Summer,Evening,Low,5,1,140,30,103,134,267,Discharged,1
+PAT-04318,9/10/2024 13:35,Tuesday,Fall,Afternoon,High,3,5,157,3,8,17,28,Discharged,4
+PAT-04319,10/1/2024 12:26,Tuesday,Fall,Early Morning,High,3,1,87,2,6,8,16,Discharged,5
+PAT-04320,7/10/2024 17:30,Wednesday,Summer,Night,Critical,1,9,138,3,5,16,24,Discharged,4
+PAT-04325,1/22/2024 10:27,Monday,Winter,Evening,Low,4,2,65,34,100,169,303,Discharged,1
+PAT-04334,10/15/2024 18:27,Tuesday,Fall,Night,High,3,10,116,2,4,24,30,Admitted,4
+PAT-04336,6/23/2024 0:34,Sunday,Summer,Late Morning,High,4,8,115,4,9,29,42,Discharged,4
+PAT-04351,11/15/2024 12:54,Friday,Fall,Early Morning,Low,4,3,68,10,34,49,93,Admitted,2
+PAT-04374,6/13/2024 10:47,Thursday,Summer,Afternoon,Low,4,2,50,28,50,88,166,Discharged,1
+PAT-04378,11/19/2024 1:35,Tuesday,Fall,Evening,Medium,4,4,194,22,38,69,129,Discharged,1
+PAT-04379,2/15/2024 8:54,Thursday,Winter,Evening,Critical,2,5,157,4,11,11,26,Admitted,4
+PAT-04380,7/9/2024 13:40,Tuesday,Summer,Late Morning,Low,5,6,163,25,40,70,135,Discharged,1
+PAT-04382,5/26/2024 12:42,Sunday,Spring,Evening,Low,4,1,69,21,55,63,139,Discharged,1
+PAT-04384,4/26/2024 10:22,Friday,Spring,Evening,Critical,1,7,93,1,2,9,12,Discharged,4
+PAT-04385,1/5/2024 8:19,Friday,Winter,Afternoon,Low,5,1,123,34,43,94,171,Discharged,1
+PAT-04391,4/25/2024 15:09,Thursday,Spring,Afternoon,Low,5,10,65,17,37,71,125,Discharged,1
+PAT-04393,4/29/2024 23:38,Monday,Spring,Night,Medium,3,7,127,7,32,65,104,Discharged,1
+PAT-04408,4/27/2024 7:58,Saturday,Spring,Late Morning,Medium,4,5,200,16,17,45,78,Discharged,2
+PAT-04415,6/26/2024 14:30,Wednesday,Summer,Night,Low,5,10,116,20,41,75,136,Discharged,1
+PAT-04418,8/12/2024 14:32,Monday,Summer,Evening,High,3,7,55,7,16,47,70,Admitted,2
+PAT-04422,9/23/2024 12:00,Monday,Fall,Evening,Medium,3,6,132,12,27,89,128,Discharged,1
+PAT-04423,6/12/2024 8:23,Wednesday,Summer,Evening,Medium,4,8,151,20,30,59,109,Discharged,1
+PAT-04430,3/26/2024 13:02,Tuesday,Spring,Early Morning,Medium,4,1,114,5,10,31,46,Discharged,4
+PAT-04434,12/18/2024 11:53,Wednesday,Winter,Afternoon,Low,5,6,94,21,46,124,191,Discharged,1
+PAT-04435,10/29/2024 16:03,Tuesday,Fall,Evening,High,3,3,194,7,11,20,38,Admitted,4
+PAT-04438,5/19/2024 19:13,Sunday,Spring,Afternoon,Medium,4,6,80,16,26,53,95,Discharged,2
+PAT-04440,5/25/2024 11:41,Saturday,Spring,Evening,Low,5,7,193,24,42,81,147,Discharged,1
+PAT-04444,7/31/2024 11:44,Wednesday,Summer,Evening,Critical,2,6,69,1,3,9,13,Admitted,5
+PAT-04445,7/30/2024 7:24,Tuesday,Summer,Late Morning,Low,5,8,127,24,41,65,130,Left Without Being Seen,1
+PAT-04448,3/12/2024 22:35,Tuesday,Spring,Evening,Medium,3,1,51,11,20,30,61,Discharged,3
+PAT-04450,3/22/2024 16:52,Friday,Spring,Night,High,3,9,144,5,6,26,37,Admitted,4
+PAT-04457,3/12/2024 14:05,Tuesday,Spring,Late Morning,Low,5,2,159,11,49,80,140,Discharged,1
+PAT-04466,3/22/2024 0:53,Friday,Spring,Late Morning,High,4,5,191,4,11,31,46,Admitted,3
+PAT-04472,5/2/2024 20:59,Thursday,Spring,Afternoon,High,3,4,77,3,6,14,23,Admitted,4
+PAT-04482,2/26/2024 6:18,Monday,Winter,Late Morning,Critical,1,10,56,1,7,13,21,Discharged,4
+PAT-04485,11/20/2024 18:58,Wednesday,Fall,Night,Critical,2,10,156,2,5,15,22,Discharged,4
+PAT-04486,3/28/2024 22:38,Thursday,Spring,Afternoon,Critical,1,4,135,1,2,7,10,Admitted,4
+PAT-04489,12/26/2024 17:19,Thursday,Winter,Afternoon,Low,4,3,157,21,74,90,185,Discharged,1
+PAT-04498,3/6/2024 11:39,Wednesday,Spring,Afternoon,Medium,3,9,123,12,26,25,63,Discharged,3
+PAT-04501,1/8/2024 20:33,Monday,Winter,Early Morning,Critical,1,8,150,2,2,9,13,Discharged,5
+PAT-04505,3/17/2024 1:31,Sunday,Spring,Evening,High,4,9,182,5,13,23,41,Admitted,4
+PAT-04508,10/21/2024 8:43,Monday,Fall,Late Morning,Medium,4,10,72,11,30,63,104,Discharged,2
+PAT-04515,5/17/2024 1:12,Friday,Spring,Late Morning,Medium,4,5,116,19,23,56,98,Admitted,2
+PAT-04516,8/17/2024 6:16,Saturday,Summer,Evening,Critical,1,8,142,1,4,17,22,Admitted,4
+PAT-04526,8/2/2024 14:14,Friday,Summer,Late Morning,Medium,3,10,167,14,26,36,76,Admitted,3
+PAT-04540,5/29/2024 7:34,Wednesday,Spring,Afternoon,Medium,3,4,133,12,30,34,76,Discharged,3
+PAT-04541,11/29/2024 5:45,Friday,Fall,Evening,High,4,1,94,5,14,21,40,Discharged,4
+PAT-04546,6/4/2024 14:37,Tuesday,Summer,Afternoon,Critical,1,6,72,1,6,6,13,Admitted,4
+PAT-04557,10/22/2024 14:50,Tuesday,Fall,Afternoon,Medium,4,3,143,9,20,27,56,Admitted,3
+PAT-04558,12/30/2024 15:31,Monday,Winter,Afternoon,Low,4,3,130,38,108,116,262,Discharged,1
+PAT-04560,10/15/2024 6:32,Tuesday,Fall,Evening,High,4,3,167,5,14,26,45,Discharged,3
+PAT-04562,1/17/2024 22:58,Wednesday,Winter,Afternoon,High,3,8,130,6,8,31,45,Admitted,4
+PAT-04563,2/7/2024 7:14,Wednesday,Winter,Night,Low,4,8,98,30,58,83,171,Discharged,1
+PAT-04564,12/7/2024 6:19,Saturday,Winter,Late Morning,Critical,2,6,84,2,5,17,24,Discharged,4
+PAT-04571,6/11/2024 6:24,Tuesday,Summer,Evening,Low,5,10,103,27,86,141,254,Discharged,1
+PAT-04572,2/27/2024 23:37,Tuesday,Winter,Afternoon,Critical,2,10,62,5,5,14,24,Admitted,4
+PAT-04574,1/29/2024 17:46,Monday,Winter,Evening,Medium,4,7,175,51,82,109,242,Discharged,1
+PAT-04575,5/5/2024 19:18,Sunday,Spring,Late Morning,Critical,1,4,124,0,1,6,7,Admitted,4
+PAT-04588,4/1/2024 3:09,Monday,Spring,Evening,Low,4,10,191,34,97,130,261,Left Without Being Seen,1
+PAT-04593,6/25/2024 12:01,Tuesday,Summer,Late Morning,Medium,3,7,184,7,24,52,83,Admitted,2
+PAT-04597,9/4/2024 2:58,Wednesday,Fall,Late Morning,Critical,1,10,125,2,2,10,14,Admitted,4
+PAT-04599,7/7/2024 17:02,Sunday,Summer,Early Morning,High,3,7,111,3,4,8,15,Discharged,5
+PAT-04610,4/14/2024 1:24,Sunday,Spring,Night,Critical,2,3,108,2,4,8,14,Discharged,5
+PAT-04612,1/28/2024 5:09,Sunday,Winter,Late Morning,Critical,1,1,182,2,1,10,13,Discharged,4
+PAT-04618,9/20/2024 8:53,Friday,Fall,Evening,Low,5,3,72,30,37,88,155,Left Without Being Seen,1
+PAT-04628,6/22/2024 21:48,Saturday,Summer,Late Morning,Critical,2,2,182,3,4,6,13,Admitted,4
+PAT-04629,10/11/2024 8:28,Friday,Fall,Evening,High,4,2,126,4,16,29,49,Admitted,3
+PAT-04632,5/4/2024 15:57,Saturday,Spring,Evening,Medium,3,2,96,16,27,40,83,Admitted,2
+PAT-04639,3/29/2024 5:43,Friday,Spring,Evening,Medium,4,8,163,10,24,67,101,Admitted,1
+PAT-04642,7/8/2024 22:49,Monday,Summer,Evening,Low,4,4,93,41,115,138,294,Left Without Being Seen,1
+PAT-04648,5/13/2024 17:16,Monday,Spring,Afternoon,Critical,2,4,105,3,6,20,29,Admitted,4
+PAT-04653,1/31/2024 6:08,Wednesday,Winter,Late Morning,Critical,2,3,105,4,7,19,30,Admitted,4
+PAT-04656,12/21/2024 18:07,Saturday,Winter,Evening,Low,4,8,110,27,48,159,234,Discharged,1
+PAT-04658,1/2/2024 12:41,Tuesday,Winter,Late Morning,Critical,1,9,72,3,3,15,21,Admitted,5
+PAT-04661,1/9/2024 16:10,Tuesday,Winter,Evening,Low,5,8,85,42,67,119,228,Discharged,1
+PAT-04669,5/19/2024 11:03,Sunday,Spring,Evening,Medium,3,7,153,14,29,55,98,Admitted,1
+PAT-04670,7/28/2024 9:21,Sunday,Summer,Afternoon,Critical,2,1,172,3,2,14,19,Admitted,5
+PAT-04674,2/13/2024 20:21,Tuesday,Winter,Late Morning,High,4,1,163,9,16,38,63,Admitted,3
+PAT-04684,4/15/2024 14:55,Monday,Spring,Late Morning,High,4,10,52,4,13,30,47,Admitted,3
+PAT-04688,3/1/2024 21:42,Friday,Spring,Evening,Medium,4,2,66,19,21,107,147,Left Without Being Seen,1
+PAT-04694,9/26/2024 11:06,Thursday,Fall,Late Morning,Critical,2,9,59,0,1,11,12,Discharged,4
+PAT-04695,1/19/2024 8:39,Friday,Winter,Afternoon,Medium,4,7,193,29,22,93,144,Discharged,1
+PAT-04696,3/14/2024 22:03,Thursday,Spring,Afternoon,Medium,4,9,90,15,23,62,100,Admitted,2
+PAT-04698,2/17/2024 12:09,Saturday,Winter,Afternoon,Low,4,4,62,34,82,104,220,Left Without Being Seen,1
+PAT-04702,11/29/2024 22:42,Friday,Fall,Night,Medium,4,1,185,17,28,32,77,Discharged,2
+PAT-04705,11/14/2024 4:10,Thursday,Fall,Late Morning,Critical,2,10,186,2,2,11,15,Discharged,4
+PAT-04707,8/6/2024 3:48,Tuesday,Summer,Afternoon,High,4,2,124,7,14,40,61,Discharged,3
+PAT-04709,8/14/2024 13:03,Wednesday,Summer,Night,Low,4,1,178,25,59,106,190,Left Without Being Seen,1
+PAT-04713,10/27/2024 12:37,Sunday,Fall,Early Morning,High,4,9,111,1,3,9,13,Admitted,5
+PAT-04720,8/3/2024 2:39,Saturday,Summer,Night,Medium,3,10,173,15,17,52,84,Discharged,2
+PAT-04729,7/18/2024 0:09,Thursday,Summer,Afternoon,High,4,5,86,5,10,34,49,Admitted,3
+PAT-04739,6/16/2024 10:44,Sunday,Summer,Early Morning,High,3,9,97,3,4,13,20,Admitted,4
+PAT-04745,12/1/2024 20:51,Sunday,Winter,Night,Medium,4,4,91,12,31,56,99,Admitted,2
+PAT-04746,1/19/2024 17:07,Friday,Winter,Night,High,4,5,191,7,13,41,61,Discharged,3
+PAT-04760,8/4/2024 3:39,Sunday,Summer,Late Morning,Critical,2,9,193,0,1,12,13,Discharged,4
+PAT-04769,1/9/2024 9:15,Tuesday,Winter,Afternoon,Low,4,3,81,29,52,118,199,Discharged,1
+PAT-04770,12/14/2024 21:02,Saturday,Winter,Afternoon,High,4,8,110,7,12,30,49,Admitted,4
+PAT-04773,2/16/2024 13:19,Friday,Winter,Late Morning,Medium,3,3,57,25,41,62,128,Left Without Being Seen,1
+PAT-04775,10/30/2024 6:11,Wednesday,Fall,Evening,Low,4,8,85,30,65,76,171,Discharged,1
+PAT-04776,4/5/2024 3:29,Friday,Spring,Afternoon,Low,5,4,60,20,41,85,146,Left Without Being Seen,1
+PAT-04777,8/20/2024 16:09,Tuesday,Summer,Evening,Medium,4,5,179,25,53,99,177,Discharged,1
+PAT-04781,8/31/2024 14:00,Saturday,Summer,Evening,Medium,4,2,92,26,32,75,133,Discharged,1
+PAT-04792,8/27/2024 12:09,Tuesday,Summer,Late Morning,High,3,5,137,4,5,26,35,Discharged,4
+PAT-04794,6/24/2024 20:29,Monday,Summer,Afternoon,High,3,7,171,7,12,27,46,Discharged,4
+PAT-04802,8/12/2024 11:17,Monday,Summer,Evening,Medium,4,10,57,31,62,107,200,Discharged,1
+PAT-04803,8/25/2024 15:33,Sunday,Summer,Evening,Low,4,8,147,25,49,77,151,Discharged,1
+PAT-04805,6/16/2024 18:30,Sunday,Summer,Afternoon,Medium,4,10,119,19,21,43,83,Discharged,2
+PAT-04806,12/11/2024 6:15,Wednesday,Winter,Afternoon,High,4,3,109,9,14,37,60,Admitted,3
+PAT-04812,11/1/2024 9:59,Friday,Fall,Early Morning,Critical,2,9,82,1,1,7,9,Discharged,5
+PAT-04814,1/27/2024 4:53,Saturday,Winter,Afternoon,Low,5,9,198,22,63,115,200,Discharged,1
+PAT-04825,8/31/2024 15:22,Saturday,Summer,Afternoon,Medium,3,5,151,18,13,28,59,Admitted,3
+PAT-04828,1/11/2024 9:58,Thursday,Winter,Late Morning,Low,5,1,50,30,79,107,216,Discharged,1
+PAT-04831,11/25/2024 2:24,Monday,Fall,Evening,Medium,3,1,60,19,22,65,106,Admitted,1
+PAT-04845,7/18/2024 2:36,Thursday,Summer,Afternoon,Critical,2,8,90,4,4,17,25,Admitted,4
+PAT-04847,3/28/2024 9:00,Thursday,Spring,Afternoon,Low,5,2,163,22,55,65,142,Left Without Being Seen,1
+PAT-04848,11/27/2024 10:44,Wednesday,Fall,Night,High,3,1,184,4,7,10,21,Admitted,5
+PAT-04855,11/15/2024 8:07,Friday,Fall,Evening,Low,5,3,135,25,77,91,193,Discharged,1
+PAT-04863,1/25/2024 5:30,Thursday,Winter,Afternoon,Medium,3,1,179,15,18,55,88,Discharged,2
+PAT-04864,4/20/2024 8:37,Saturday,Spring,Afternoon,Critical,2,4,119,1,3,6,10,Admitted,5
+PAT-04865,5/2/2024 10:13,Thursday,Spring,Evening,High,3,1,110,5,14,26,45,Admitted,3
+PAT-04867,5/18/2024 19:48,Saturday,Spring,Late Morning,Low,4,4,167,18,22,77,117,Discharged,1
+PAT-04878,3/9/2024 23:19,Saturday,Spring,Evening,Critical,2,8,53,1,4,14,19,Admitted,4
+PAT-04886,4/15/2024 8:10,Monday,Spring,Evening,Medium,4,3,87,18,48,58,124,Discharged,1
+PAT-04887,4/12/2024 14:33,Friday,Spring,Afternoon,High,4,9,173,4,14,21,39,Admitted,4
+PAT-04889,2/5/2024 15:44,Monday,Winter,Afternoon,High,3,8,144,6,10,32,48,Discharged,4
+PAT-04895,8/25/2024 20:21,Sunday,Summer,Late Morning,Critical,2,9,101,1,3,14,18,Discharged,5
+PAT-04898,8/24/2024 23:00,Saturday,Summer,Afternoon,Medium,3,9,90,15,29,46,90,Discharged,2
+PAT-04902,1/19/2024 11:12,Friday,Winter,Evening,Low,4,3,176,35,110,128,273,Discharged,1
+PAT-04906,11/2/2024 19:54,Saturday,Fall,Evening,High,4,4,115,5,9,18,32,Admitted,4
+PAT-04912,10/19/2024 20:55,Saturday,Fall,Early Morning,Medium,3,8,186,7,6,27,40,Discharged,3
+PAT-04913,6/19/2024 19:51,Wednesday,Summer,Evening,High,3,1,174,7,11,28,46,Discharged,3
+PAT-04920,4/21/2024 6:25,Sunday,Spring,Afternoon,High,4,6,64,6,7,23,36,Discharged,4
+PAT-04921,3/24/2024 14:55,Sunday,Spring,Early Morning,High,4,3,195,2,7,15,24,Discharged,4
+PAT-04928,11/21/2024 20:02,Thursday,Fall,Evening,Low,5,2,148,24,44,87,155,Discharged,1
+PAT-04930,6/11/2024 13:25,Tuesday,Summer,Late Morning,Low,5,8,89,29,60,98,187,Discharged,1
+PAT-04937,4/7/2024 6:25,Sunday,Spring,Late Morning,Low,4,7,96,12,26,50,88,Admitted,2
+PAT-04940,8/28/2024 12:42,Wednesday,Summer,Night,High,4,10,148,5,13,34,52,Admitted,3
+PAT-04943,1/18/2024 8:01,Thursday,Winter,Evening,Medium,3,7,89,23,39,59,121,Discharged,1
+PAT-04946,3/4/2024 9:15,Monday,Spring,Early Morning,Low,5,7,121,14,67,90,171,Left Without Being Seen,1
+PAT-04952,3/13/2024 0:57,Wednesday,Spring,Evening,Critical,1,1,150,1,4,15,20,Admitted,5
+PAT-04956,11/29/2024 17:06,Friday,Fall,Afternoon,Low,4,6,188,14,64,72,150,Discharged,1
+PAT-04960,12/16/2024 16:56,Monday,Winter,Afternoon,Low,4,7,141,32,88,108,228,Discharged,1
+PAT-04964,11/7/2024 4:21,Thursday,Fall,Afternoon,High,3,3,62,3,9,15,27,Discharged,4
+PAT-04975,8/6/2024 7:17,Tuesday,Summer,Afternoon,Critical,1,5,122,3,4,5,12,Discharged,5
+PAT-04977,11/9/2024 13:07,Saturday,Fall,Afternoon,Medium,3,2,171,10,17,31,58,Admitted,3
+PAT-04978,11/5/2024 13:08,Tuesday,Fall,Evening,Low,4,4,131,31,53,98,182,Discharged,1
+PAT-04993,4/23/2024 1:10,Tuesday,Spring,Early Morning,High,3,5,118,4,8,17,29,Discharged,4
+PAT-04998,2/13/2024 21:06,Tuesday,Winter,Afternoon,Medium,3,7,163,14,29,87,130,Discharged,1
+PAT-04999,8/28/2024 3:11,Wednesday,Summer,Afternoon,Low,5,4,160,21,35,73,129,Left Without Being Seen,1
